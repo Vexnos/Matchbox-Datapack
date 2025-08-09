@@ -10,4 +10,5 @@ execute as @a[tag=!spark] run scoreboard players add #matches matches 1
 # Start Role Reveal Countdown
 scoreboard players set #countdown countdown 3
 function matchbox:game/countdown/countdown
+effect give @a slowness infinite 128 true
 effect give @a blindness infinite 0 true
