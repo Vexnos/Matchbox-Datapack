@@ -1,0 +1,1787 @@
+The contents of this file are licensed under CC BY-NC-SA 3.0
+Source: https://minecraft.wiki/w/List_of_blocks_by_version
+
+== Java Edition ==
+
+{|class="wikitable"
+!Block!!ID!!Added!!Removed
+|-
+|{{BlockLink|Air}}||air||[[Cave game tech test]]||-
+|-
+|{{BlockLink|Stone}}||stone||[[Cave game tech test]]||-
+|-
+|{{BlockLink|Grass Block}}||grass_block||[[Cave game tech test]]||-
+|-
+|{{BlockLink|Dirt}}||dirt||[[Java Edition pre-Classic rd-20090515|pre-Classic rd-20090515]]||-
+|-
+|{{BlockLink|Cobblestone}}||cobblestone||[[Java Edition pre-Classic rd-20090515|pre-Classic rd-20090515]]||-
+|-
+|{{BlockLink|Oak Planks}}||oak_planks||[[Java Edition pre-Classic rd-20090515|pre-Classic rd-20090515]]||-
+|-
+|{{BlockLink|Oak Sapling}}||oak_sapling||[[Java Edition pre-Classic rd-161348|pre-Classic rd-161348]]||-
+|-
+|{{BlockLink|Bedrock}}||bedrock||[[Java Edition Classic 0.0.12a|Classic 0.0.12a]]||-
+|-
+|{{BlockLink|Water}}||water||[[Java Edition Classic 0.0.12a|Classic 0.0.12a]]||-
+|-
+|{{BlockLink|Lava}}||lava||[[Java Edition Classic 0.0.12a|Classic 0.0.12a]]||-
+|-
+|{{BlockLink|Sand}}||sand||[[Java Edition Classic 0.0.14a|Classic 0.0.14a]]||-
+|-
+|{{BlockLink|Gravel}}||gravel||[[Java Edition Classic 0.0.14a|Classic 0.0.14a]]||-
+|-
+|{{BlockLink|Gold Ore}}||gold_ore||[[Java Edition Classic 0.0.14a|Classic 0.0.14a]]||-
+|-
+|{{BlockLink|Iron Ore}}||iron_ore||[[Java Edition Classic 0.0.14a|Classic 0.0.14a]]||-
+|-
+|{{BlockLink|Coal Ore}}||coal_ore||[[Java Edition Classic 0.0.14a|Classic 0.0.14a]]||-
+|-
+|{{BlockLink|Oak Log}}||oak_log||[[Java Edition Classic 0.0.14a|Classic 0.0.14a]]||-
+|-
+|{{BlockLink|Oak Leaves}}||oak_leaves||[[Java Edition Classic 0.0.14a|Classic 0.0.14a]]||-
+|-
+|{{BlockLink|Sponge}}||sponge||[[Java Edition Classic 0.0.19a|Classic 0.0.19a]]||-
+|-
+|{{BlockLink|Glass}}||glass||[[Java Edition Classic 0.0.19a|Classic 0.0.19a]]||-
+|-
+|{{BlockLink|Red Cloth|link=Wool}}||<ref name="no_resource" group="note">[[Resource locations]] did not exist during this block's lifetime.</ref>||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||[[Java Edition Infdev 20100624|Infdev 20100624]]
+|-
+|{{BlockLink|Orange Cloth|link=Wool}}||<ref name="no_resource" group="note"/> ||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||[[Java Edition Infdev 20100624|Infdev 20100624]]
+|-
+|{{BlockLink|Yellow Cloth|link=Wool}}||<ref name="no_resource" group="note"/> ||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||[[Java Edition Infdev 20100624|Infdev 20100624]]
+|-
+|{{BlockLink|Chartreuse Cloth|link=Wool}}||<ref name="no_resource" group="note"/>||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||[[Java Edition Infdev 20100624|Infdev 20100624]]
+|-
+|{{BlockLink|Green Cloth|link=Wool}}||<ref name="no_resource" group="note"/>||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||[[Java Edition Infdev 20100624|Infdev 20100624]]
+|-
+|{{BlockLink|Spring Green Cloth|link=Wool}}||<ref name="no_resource" group="note"/>||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||[[Java Edition Infdev 20100624|Infdev 20100624]]
+|-
+|{{BlockLink|Cyan Cloth|link=Wool}}||<ref name="no_resource" group="note"/> || [[Java Edition Classic 0.0.20a|Classic 0.0.20a]] ||[[Java Edition Infdev 20100624|Infdev 20100624]]
+|-
+|{{BlockLink|Capri Cloth|link=Wool}}||<ref name="no_resource" group="note"/>||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||[[Java Edition Infdev 20100624|Infdev 20100624]]
+|-
+|{{BlockLink|Ultramarine Cloth|link=Wool}}||<ref name="no_resource" group="note"/>||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||[[Java Edition Infdev 20100624|Infdev 20100624]]
+|-
+|{{BlockLink|Violet Cloth|link=Wool}}||<ref name="no_resource" group="note"/>||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||[[Java Edition Infdev 20100624|Infdev 20100624]]
+|-
+|{{BlockLink|Purple Cloth|link=Wool}}||<ref name="no_resource" group="note"/>||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||[[Java Edition Infdev 20100624|Infdev 20100624]]
+|-
+|{{BlockLink|Magenta Cloth|link=Wool}}||<ref name="no_resource" group="note"/>||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||[[Java Edition Infdev 20100624|Infdev 20100624]]
+|-
+|{{BlockLink|Rose Cloth|link=Wool}}||<ref name="no_resource" group="note"/>||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||[[Java Edition Infdev 20100624|Infdev 20100624]]
+|-
+|{{BlockLink|Dark Gray Cloth|link=Wool}}||<ref name="no_resource" group="note"/>||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||[[Java Edition Infdev 20100624|Infdev 20100624]]
+|-
+|{{BlockLink|Light Gray Cloth|link=Wool}}||<ref name="no_resource" group="note"/>||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||[[Java Edition Infdev 20100624|Infdev 20100624]]
+|-
+|{{BlockLink|White Wool}}||white_wool||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||-
+|-
+|{{BlockLink|Dandelion}}||dandelion||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||-
+|-
+|{{BlockLink|Poppy}}||poppy||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||-
+|-
+|{{BlockLink|Brown Mushroom}}||brown_mushroom||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||-
+|-
+|{{BlockLink|Red Mushroom}}||red_mushroom||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||-
+|-
+|{{BlockLink|Block of Gold}}||gold_block||[[Java Edition Classic 0.0.20a|Classic 0.0.20a]]||-
+|-
+|{{BlockLink|Block of Iron}}||iron_block||[[Java Edition Classic 0.26 SURVIVAL TEST|Classic 0.26 SURVIVAL TEST]]||-
+|-
+|{{BlockLink|Smooth Stone Slab}}||smooth_stone_slab||[[Java Edition Classic 0.26 SURVIVAL TEST|Classic 0.26 SURVIVAL TEST]]||-
+|-
+|{{BlockLink|Bricks}}||bricks||[[Java Edition Classic 0.26 SURVIVAL TEST|Classic 0.26 SURVIVAL TEST]]||-
+|-
+|{{BlockLink|TNT}}||tnt||[[Java Edition Classic 0.26 SURVIVAL TEST|Classic 0.26 SURVIVAL TEST]]||-
+|-
+|{{BlockLink|Bookshelf}}||bookshelf||[[Java Edition Classic 0.26 SURVIVAL TEST|Classic 0.26 SURVIVAL TEST]]||-
+|-
+|{{BlockLink|Mossy Cobblestone}}||mossy_cobblestone||[[Java Edition Classic 0.26 SURVIVAL TEST|Classic 0.26 SURVIVAL TEST]]||-
+|-
+|{{BlockLink|Obsidian}}||obsidian||[[Java Edition Classic 0.28|Classic 0.28]]||-
+|-
+|{{BlockLink|Torch}}||torch||[[Java Edition Indev 0.31 20091223-1457|Indev 0.31 20091223-1457]]||-
+|-
+|{{BlockLink|Fire}}||fire||[[Java Edition Indev 0.31 20100109-1939|Indev 0.31 20100109-1939]]||-
+|-
+|{{BlockLink|Water Spawner}}||<ref name="no_resource" group="note"/>||[[Java Edition Indev 0.31 20100114|Indev 0.31 20100114]]||[[Java Edition Infdev 20100625-1917|Infdev 20100625-1917]]
+|-
+|{{BlockLink|Lava Spawner}}||<ref name="no_resource" group="note"/>||[[Java Edition Indev 0.31 20100122-2251|Indev 0.31 20100122-2251]]||[[Java Edition Infdev 20100625-1917|Infdev 20100625-1917]]
+|-
+|{{BlockLink|Chest}}||chest||[[Java Edition Indev 0.31 20100124-2119|Indev 0.31 20100124-2119]]||-
+|-
+|{{BlockLink|Gear}}||<ref name="no_resource" group="note"/>||[[Java Edition Indev 0.31 20100128-2200|Indev 0.31 20100128-2200]]||[[Java Edition Alpha v1.0.5|Alpha v1.0.1]]
+|-
+|{{BlockLink|Diamond Ore}}||diamond_ore||[[Java Edition Indev 0.31 20100128-2200|Indev 0.31 20100128-2200]]||-
+|-
+|{{BlockLink|Block of Diamond}}||diamond_block||[[Java Edition Indev 0.31 20100128-2200|Indev 0.31 20100128-2200]]|| -
+|-
+|{{BlockLink|Crafting Table}}||crafting_table||[[Java Edition Indev 0.31 20100129-2332|Indev 0.31 20100129-2332]]||-
+|-
+|{{BlockLink|Wheat Crops}}||wheat||[[Java Edition Indev 20100206-2034|Indev 20100206-2034]]||-
+|-
+|{{BlockLink|Farmland}}||farmland||[[Java Edition Indev 20100206-2034|Indev 20100206-2034]]||-
+|-
+|{{BlockLink|Furnace}}||furnace||[[Java Edition Indev 20100219|Indev 20100219]]||-
+|-
+|{{BlockLink|Oak Sign}}||oak_sign||[[Java Edition Infdev 20100607|Infdev 20100607]]||-
+|-
+|{{BlockLink|Oak Door}}||oak_door||[[Java Edition Infdev 20100607|Infdev 20100607]]||-
+|-
+|{{BlockLink|Ladder}}||ladder||[[Java Edition Infdev 20100607|Infdev 20100607]]||-
+|-
+|{{BlockLink|Rail}}||rail||[[Java Edition Infdev 20100618|Infdev 20100618]]||-
+|-
+|{{BlockLink|Monster Spawner}}||spawner||[[Java Edition Infdev 20100625-1917|Infdev 20100625-1917]]||-
+|-
+|{{BlockLink|Oak Stairs}}||oak_stairs||[[Java Edition Infdev 20100629|Infdev 20100629]]||-
+|-
+|{{BlockLink|Cobblestone Stairs}}||cobblestone_stairs||[[Java Edition Infdev 20100629|Infdev 20100629]]||-
+|-
+|{{BlockLink|id=redstone-dust|Redstone Wire}}||redstone_wire||[[Java Edition Alpha v1.0.1|Alpha v1.0.1]]||-
+|-
+|{{BlockLink|Lever}}||lever||[[Java Edition Alpha v1.0.1|Alpha v1.0.1]]||-
+|-
+|{{BlockLink|Stone Pressure Plate}}||stone_pressure_plate||[[Java Edition Alpha v1.0.1|Alpha v1.0.1]]||-
+|-
+|{{BlockLink|Iron Door}}||iron_door||[[Java Edition Alpha v1.0.1|Alpha v1.0.1]]||-
+|-
+|{{BlockLink|Oak Pressure Plate}}||oak_pressure_plate||[[Java Edition Alpha v1.0.1|Alpha v1.0.1]]||-
+|-
+|{{BlockLink|Redstone Ore}}||redstone_ore||[[Java Edition Alpha v1.0.1|Alpha v1.0.1]]||-
+|-
+|{{BlockLink|Redstone Torch}}||redstone_torch||[[Java Edition Alpha v1.0.1|Alpha v1.0.1]]||-
+|-
+|{{BlockLink|Stone Button}}||stone_button||[[Java Edition Alpha v1.0.1|Alpha v1.0.1]]||-
+|-
+|{{BlockLink|Snow}}||snow||[[Java Edition Alpha v1.0.4|Alpha v1.0.4]]||-
+|-
+|{{BlockLink|Ice}}||ice||[[Java Edition Alpha v1.0.4|Alpha v1.0.4]]||-
+|-
+|{{BlockLink|Snow Block}}||snow_block||[[Java Edition Alpha v1.0.5|Alpha v1.0.5]]||-
+|-
+|{{BlockLink|Cactus}}||cactus||[[Java Edition Alpha v1.0.6|Alpha v1.0.6]]||-
+|-
+|{{BlockLink|Clay}}||clay||[[Java Edition Alpha v1.0.11|Alpha v1.0.11]]||-
+|-
+|{{BlockLink|Sugar Cane}}||sugar_cane||[[Java Edition Alpha v1.0.11|Alpha v1.0.11]]||-
+|-
+|{{BlockLink|Jukebox}}||jukebox||[[Java Edition Alpha v1.0.14|Alpha v1.0.14]]||-
+|-
+|{{BlockLink|Oak Fence}}||oak_fence||[[Java Edition Alpha v1.0.17|Alpha v1.0.17]]||-
+|-
+|{{BlockLink|Carved Pumpkin}}||carved_pumpkin||[[Java Edition Alpha v1.2.0|Alpha v1.2.0]]||-
+|-
+|{{BlockLink|Netherrack}}||netherrack||[[Java Edition Alpha v1.2.0|Alpha v1.2.0]]||-
+|-
+|{{BlockLink|Soul Sand}}||soul_sand||[[Java Edition Alpha v1.2.0|Alpha v1.2.0]]||-
+|-
+|{{BlockLink|Glowstone}}||glowstone||[[Java Edition Alpha v1.2.0|Alpha v1.2.0]]||-
+|-
+|{{BlockLink|Nether Portal}}||nether_portal||[[Java Edition Alpha v1.2.0|Alpha v1.2.0]]||-
+|-
+|{{BlockLink|Jack o'Lantern}}||jack_o_lantern||[[Java Edition Alpha v1.2.0|Alpha v1.2.0]]||-
+|-
+|{{BlockLink|Spruce Log}}||spruce_log||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Birch Log}}||birch_log||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Spruce Leaves}}||spruce_leaves||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Birch Leaves}}||birch_leaves||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Lapis Lazuli Ore}}||lapis_ore||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Block of Lapis Lazuli}}||lapis_block||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Dispenser}}||dispenser||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Sandstone}}||sandstone||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Note Block}}||note_block||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Orange Wool}}||orange_wool||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Magenta Wool}}||magenta_wool||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Light Blue Wool}}||light_blue_wool||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Yellow Wool}}||yellow_wool||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Lime Wool}}||lime_wool||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Pink Wool}}||pink_wool||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Gray Wool}}||gray_wool||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Light Gray Wool}}||light_gray_wool||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Cyan Wool}}||cyan_wool||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Purple Wool}}||purple_wool||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Blue Wool}}||blue_wool||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Brown Wool}}||brown_wool||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Green Wool}}||green_wool||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Red Wool}}||red_wool||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Black Wool}}||black_wool||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Cake}}||cake||[[Java Edition Beta 1.2|Beta 1.2]]||-
+|-
+|{{BlockLink|Red Bed}}||red_bed||[[Java Edition Beta 1.3|Beta 1.3]]||-
+|-
+|{{BlockLink|Smooth Stone}}<ref name="extreme_metadata" group="note">Originally caused by extreme metadata values.</ref>||smooth_stone||[[Java Edition Beta 1.3|Beta 1.3]], [[Java Edition 13w04a|13w04a]]||[[Java Edition 13w02a|13w02a]]
+|-
+|{{BlockLink|Sandstone Slab}}||sandstone_slab||[[Java Edition Beta 1.3|Beta 1.3]]||-
+|-
+|{{BlockLink|Petrified Oak Slab}}||petrified_oak_slab||[[Java Edition Beta 1.3|Beta 1.3]]||-
+|-
+|{{BlockLink|Cobblestone Slab}}||cobblestone_slab||[[Java Edition Beta 1.3|Beta 1.3]]||-
+|-
+|{{BlockLink|Redstone Repeater}}||repeater||[[Java Edition Beta 1.3|Beta 1.3]]||-
+|-
+|{{BlockLink|Locked chest}}||chest_locked_aprilfools_super_old_legacy_we_should_not_even_have_this||[[Java Edition Beta 1.4|Beta 1.4]]||[[Java Edition 13w41a|13w41a]]
+|-
+|{{BlockLink|Spruce Sapling}}||spruce_sapling||[[Java Edition Beta 1.5|Beta 1.5]]||-
+|-
+|{{BlockLink|Birch Sapling}}||birch_sapling||[[Java Edition Beta 1.5|Beta 1.5]]||-
+|-
+|{{BlockLink|Powered Rail}}||powered_rail||[[Java Edition Beta 1.5|Beta 1.5]]||-
+|-
+|{{BlockLink|Detector Rail}}||detector_rail||[[Java Edition Beta 1.5|Beta 1.5]]||-
+|-
+|{{BlockLink|Cobweb}}||cobweb||[[Java Edition Beta 1.5|Beta 1.5]]||-
+|-
+|{{BlockLink|id=dead-bush|Shrub}}||tallgrass||[[Java Edition Beta 1.6 Test Build 3|Beta 1.6 Test Build 3]]||[[Java Edition 17w47a|17w47a]]
+|-
+|{{BlockLink|Short Grass}}||short_grass||[[Java Edition Beta 1.6 Test Build 3|Beta 1.6 Test Build 3]]||-
+|-
+|{{BlockLink|Fern}}||fern||[[Java Edition Beta 1.6 Test Build 3|Beta 1.6 Test Build 3]]||-
+|-
+|{{BlockLink|Dead Bush}}||dead_bush||[[Java Edition Beta 1.6 Test Build 3|Beta 1.6 Test Build 3]]||-
+|-
+|{{BlockLink|Oak Trapdoor}}||oak_trapdoor||[[Java Edition Beta 1.6 Test Build 3|Beta 1.6 Test Build 3]]||-
+|-
+|{{BlockLink|Sticky Piston}}||sticky_piston||[[Java Edition Beta 1.7|Beta 1.7]]||-
+|-
+|{{BlockLink|Piston}}||piston||[[Java Edition Beta 1.7|Beta 1.7]]||-
+|-
+|{{BlockLink|Brick Slab}}||brick_slab||[[Java Edition Beta 1.8 Pre-release|Beta 1.8 Pre-release]]||-
+|-
+|{{BlockLink|Stone Brick Slab}}||stone_brick_slab||[[Java Edition Beta 1.8 Pre-release|Beta 1.8 Pre-release]]||-
+|-
+|{{BlockLink|Infested Stone}}||infested_stone||[[Java Edition Beta 1.8 Pre-release|Beta 1.8 Pre-release]]||-
+|-
+|{{BlockLink|Infested Cobblestone}}||infested_cobblestone||[[Java Edition Beta 1.8 Pre-release|Beta 1.8 Pre-release]]||-
+|-
+|{{BlockLink|Infested Stone Bricks}}||infested_stone_bricks||[[Java Edition Beta 1.8 Pre-release|Beta 1.8 Pre-release]]||-
+|-
+|{{BlockLink|Stone Bricks}}||stone_bricks||[[Java Edition Beta 1.8 Pre-release|Beta 1.8 Pre-release]]||-
+|-
+|{{BlockLink|Brown Mushroom Block}}||brown_mushroom_block||[[Java Edition Beta 1.8 Pre-release|Beta 1.8 Pre-release]]||-
+|-
+|{{BlockLink|Mushroom Stem}}||mushroom_stem||[[Java Edition Beta 1.8 Pre-release|Beta 1.8 Pre-release]]||-
+|-
+|{{BlockLink|Red Mushroom Block}}||red_mushroom_block||[[Java Edition Beta 1.8 Pre-release|Beta 1.8 Pre-release]]||-
+|-
+|{{BlockLink|Iron Bars}}||iron_bars||[[Java Edition Beta 1.8 Pre-release|Beta 1.8 Pre-release]]||-
+|-
+|{{BlockLink|Glass Pane}}||glass_pane||[[Java Edition Beta 1.8 Pre-release|Beta 1.8 Pre-release]]||-
+|-
+|{{BlockLink|Melon}}||melon||[[Java Edition Beta 1.8 Pre-release|Beta 1.8 Pre-release]]||-
+|-
+|{{BlockLink|Pumpkin Stem}}||pumpkin_stem||[[Java Edition Beta 1.8 Pre-release|Beta 1.8 Pre-release]]||-
+|-
+|{{BlockLink|Melon Stem}}||melon_stem||[[Java Edition Beta 1.8 Pre-release|Beta 1.8 Pre-release]]||-
+|-
+|{{BlockLink|Vines}}||vine||[[Java Edition Beta 1.8 Pre-release|Beta 1.8 Pre-release]]||-
+|-
+|{{BlockLink|Oak Fence Gate}}||oak_fence_gate||[[Java Edition Beta 1.8 Pre-release|Beta 1.8 Pre-release]]||-
+|-
+|{{BlockLink|Brick Stairs}}||brick_stairs||[[Java Edition Beta 1.8 Pre-release|Beta 1.8 Pre-release]]||-
+|-
+|{{BlockLink|Stone Brick Stairs}}||stone_brick_stairs||[[Java Edition Beta 1.8 Pre-release|Beta 1.8 Pre-release]]||-
+|-
+|{{BlockLink|Nether Brick Slab}}||nether_brick_slab||[[Java Edition Beta 1.9 Prerelease|Beta 1.9 Prerelease]]||-
+|-
+|{{BlockLink|Mycelium}}||mycelium||[[Java Edition Beta 1.9 Prerelease|Beta 1.9 Prerelease]]||-
+|-
+|{{BlockLink|Lily Pad}}||lily_pad||[[Java Edition Beta 1.9 Prerelease|Beta 1.9 Prerelease]]||-
+|-
+|{{BlockLink|Nether Bricks}}||nether_bricks||[[Java Edition Beta 1.9 Prerelease|Beta 1.9 Prerelease]]||-
+|-
+|{{BlockLink|Nether Brick Fence}}||nether_brick_fence||[[Java Edition Beta 1.9 Prerelease|Beta 1.9 Prerelease]]||-
+|-
+|{{BlockLink|Nether Brick Stairs}}||nether_brick_stairs||[[Java Edition Beta 1.9 Prerelease|Beta 1.9 Prerelease]] ||-
+|-
+|{{BlockLink|Nether Wart}}||nether_wart||[[Java Edition Beta 1.9 Prerelease|Beta 1.9 Prerelease]]||-
+|-
+|{{BlockLink|Enchanting Table}}||enchanting_table||[[Java Edition Beta 1.9 Prerelease 3|Beta 1.9 Prerelease 3]]||-
+|-
+|{{BlockLink|Brewing Stand}}||brewing_stand||[[Java Edition Beta 1.9 Prerelease 3|Beta 1.9 Prerelease 3]]||-
+|-
+|{{BlockLink|Cauldron}}||cauldron||[[Java Edition Beta 1.9 Prerelease 3|Beta 1.9 Prerelease 3]]||-
+|-
+|{{BlockLink|End Portal}}||end_portal||[[Java Edition Beta 1.9 Prerelease 3|Beta 1.9 Prerelease 3]]||-
+|-
+|{{BlockLink|End Portal Frame}}||end_portal_frame||[[Java Edition Beta 1.9 Prerelease 3|Beta 1.9 Prerelease 3]] ||-
+|-
+|{{BlockLink|End Stone}}||end_stone||[[Java Edition Beta 1.9 Prerelease 4|Beta 1.9 Prerelease 4]]||-
+|-
+|{{BlockLink|Dragon Egg}}||dragon_egg||[[Java Edition Beta 1.9 Prerelease 6|Beta 1.9 Prerelease 6]]||-
+|-
+|{{BlockLink|Jungle Log}}||jungle_log||[[Java Edition 12w03a|12w03a]]||-
+|-
+|{{BlockLink|Jungle Leaves}}||jungle_leaves||[[Java Edition 12w03a|12w03a]]||-
+|-
+|{{BlockLink|Jungle Sapling}}||jungle_sapling||[[Java Edition 12w03a|12w03a]]||-
+|-
+|{{BlockLink|Redstone Lamp}}||redstone_lamp||[[Java Edition 12w07a|12w07a]]||-
+|-
+|{{BlockLink|Chiseled Stone Bricks}}||chiseled_stone_bricks||[[Java Edition 1.2|1.2]]||-
+|-
+|{{BlockLink|Spruce Planks}}||spruce_planks||[[Java Edition 1.2.4|1.2.4]]||-
+|-
+|{{BlockLink|Birch Planks}}||birch_planks||[[Java Edition 1.2.4|1.2.4]]||-
+|-
+|{{BlockLink|Jungle Planks}}||jungle_planks||[[Java Edition 1.2.4|1.2.4]]||-
+|-
+|{{BlockLink|Chiseled Sandstone}}||chiseled_sandstone||[[Java Edition 1.2.4|1.2.4]]||-
+|-
+|{{BlockLink|Cut Sandstone}}||cut_sandstone||[[Java Edition 1.2.4|1.2.4]]||-
+|-
+|{{BlockLink|Oak Slab}}||oak_slab||[[Java Edition 12w17a|12w17a]]||-
+|-
+|{{BlockLink|Spruce Slab}}||spruce_slab||[[Java Edition 12w17a|12w17a]]||-
+|-
+|{{BlockLink|Birch Slab}}||birch_slab||[[Java Edition 12w17a|12w17a]]||-
+|-
+|{{BlockLink|Jungle Slab}}||jungle_slab||[[Java Edition 12w17a|12w17a]]||-
+|-
+|{{BlockLink|Cocoa}}||cocoa||[[Java Edition 12w19a|12w19a]]||-
+|-
+|{{BlockLink|Sandstone Stairs}}||sandstone_stairs||[[Java Edition 12w21a|12w21a]]||-
+|-
+|{{BlockLink|Emerald Ore}}||emerald_ore||[[Java Edition 12w21a|12w21a]]||-
+|-
+|{{BlockLink|Ender Chest}}||ender_chest||[[Java Edition 12w21a|12w21a]]||-
+|-
+|{{BlockLink|Tripwire Hook}}||tripwire_hook||[[Java Edition 12w22a|12w22a]]||-
+|-
+|{{BlockLink|Tripwire}}||tripwire||[[Java Edition 12w22a|12w22a]]||-
+|-
+|{{BlockLink|Block of Emerald}}|| emerald_block||[[Java Edition 12w22a|12w22a]]||-
+|-
+|{{BlockLink|Spruce Stairs}}||spruce_stairs||[[Java Edition 12w25a|12w25a]]||-
+|-
+|{{BlockLink|Birch Stairs}}||birch_stairs||[[Java Edition 12w25a|12w25a]]||-
+|-
+|{{BlockLink|Jungle Stairs}}||jungle_stairs||[[Java Edition 12w25a|12w25a]]||-
+|-
+|{{BlockLink|Oak Wood}}<ref name="extreme_metadata" group="note"/>||oak_wood||[[Java Edition 12w30d|12w30d]]||-
+|-
+|{{BlockLink|Spruce Wood}}<ref name="extreme_metadata" group="note"/>||spruce_wood||[[Java Edition 12w30d|12w30d]]||-
+|-
+|{{BlockLink|Birch Wood}}<ref name="extreme_metadata" group="note"/>||birch_wood||[[Java Edition 12w30d|12w30d]]||-
+|-
+|{{BlockLink|Jungle Wood}}<ref name="extreme_metadata" group="note"/>||jungle_wood||[[Java Edition 12w30d|12w30d]]||-
+|-
+|{{BlockLink|Beacon}}||beacon||[[Java Edition 12w32a|12w32a]]||-
+|-
+|{{BlockLink|Command Block}}||command_block||[[Java Edition 12w32a|12w32a]]||-
+|-
+|{{Blocklink|Cobblestone Wall}}||cobblestone_wall||[[Java Edition 12w34a|12w32a]]||-
+|-
+|{{Blocklink|Flower Pot}}||flower_pot||[[Java Edition 12w34a|12w34a]]||-
+|-
+|{{Blocklink|Mossy Cobblestone Wall}}||mossy_cobblestone_wall||[[Java Edition 12w34a|12w34a]]||-
+|-
+|{{Blocklink|Oak Button}}||oak_button||[[Java Edition 12w34a|12w34a]]||-
+|-
+|{{Blocklink|Skeleton Skull}}||skeleton_skull||[[Java Edition 12w36a|12w36a]]||-
+|-
+|{{Blocklink|Wither Skeleton Skull}}||wither_skeleton_skull||[[Java Edition 12w36a|12w36a]]||-
+|-
+|{{Blocklink|Zombie Head}}||zombie_head||[[Java Edition 12w36a|12w36a]]||-
+|-
+|{{Blocklink|Creeper Head}}||creeper_head||[[Java Edition 12w36a|12w36a]]||-
+|-
+|{{Blocklink|Player Head}}||player_head||[[Java Edition 12w36a|12w36a]]||-
+|-
+|{{Blocklink|Anvil}}||anvil||[[Java Edition 12w41a|12w41a]]||-
+|-
+|{{Blocklink|Nether Brick Slab}}||nether_brick_slab||[[Java Edition 12w49a|12w49a]]||-
+|-
+|{{Blocklink|Block of Redstone}}||redstone_block||[[Java Edition 13w01a|13w01a]]||-
+|-
+|{{Blocklink|Daylight Detector}}||daylight_detector||[[Java Edition 13w01a|13w01a]]||-
+|-
+|{{Blocklink|Hopper}}||hopper||[[Java Edition 13w01a|13w01a]]||-
+|-
+|{{Blocklink|Nether Quartz Ore}}||nether_quartz_ore||[[Java Edition 13w01a|13w01a]]||-
+|-
+|{{Blocklink|Redstone Comparator}}||comparator||[[Java Edition 13w01a|13w01a]]||-
+|-
+|{{Blocklink|Trapped Chest}}||trapped_chest||[[Java Edition 13w01a|13w01a]]||-
+|-
+|{{Blocklink|Light Weighted Pressure Plate}}|| light_weighted_pressure_plate||[[Java Edition 13w01a|13w01a]]||-
+|-
+|{{Blocklink|Heavy Weighted Pressure Plate}}||heavy_weighted_pressure_plate||[[Java Edition 13w01a|13w01a]]||-
+|-
+|{{Blocklink|Activator Rail}}||activator_rail||[[Java Edition 13w02a|13w02a]]||-
+|-
+|{{Blocklink|Block of Quartz}}||quartz_block||[[Java Edition 13w02a|13w02a]]||-
+|-
+|{{Blocklink|Chiseled Quartz Block}}||chiseled_quartz_block||[[Java Edition 13w02a|13w02a]]||-
+|-
+|{{Blocklink|Quartz Pillar}}||quartz_pillar||[[Java Edition 13w02a|13w02a]]||-
+|-
+|{{Blocklink|Quartz Stairs}}||quartz_stairs||[[Java Edition 13w02a|13w02a]]||-
+|-
+|{{Blocklink|Quartz Slab}}||quartz_slab||[[Java Edition 13w02a|13w02a]]||-
+|-
+|{{Blocklink|Dropper}}||dropper||[[Java Edition 13w03a|13w03a]]||-
+|-
+|{{Blocklink|White Carpet}}||white_carpet||[[Java Edition 13w16a|13w16a]]||-
+|-
+|{{Blocklink|Light Gray Carpet}}||light_gray_carpet||[[Java Edition 13w16a|13w16a]]||-
+|-
+|{{Blocklink|Gray Carpet}}||gray_carpet||[[Java Edition 13w16a|13w16a]]||-
+|-
+|{{Blocklink|Black Carpet}}||black_carpet||[[Java Edition 13w16a|13w16a]]||-
+|-
+|{{Blocklink|Brown Carpet}}||brown_carpet||[[Java Edition 13w16a|13w16a]]||-
+|-
+|{{Blocklink|Red Carpet}}||red_carpet||[[Java Edition 13w16a|13w16a]]||-
+|-
+|{{Blocklink|Orange Carpet}}||orange_carpet||[[Java Edition 13w16a|13w16a]]||-
+|-
+|{{Blocklink|Yellow Carpet}}||yellow_carpet||[[Java Edition 13w16a|13w16a]]||-
+|-
+|{{Blocklink|Lime Carpet}}||lime_carpet||[[Java Edition 13w16a|13w16a]]||-
+|-
+|{{Blocklink|Green Carpet}}||green_carpet||[[Java Edition 13w16a|13w16a]]||-
+|-
+|{{Blocklink|Cyan Carpet}}||cyan_carpet||[[Java Edition 13w16a|13w16a]]||-
+|-
+|{{Blocklink|Light Blue Carpet}}||light_blue_carpet||[[Java Edition 13w16a|13w16a]]||-
+|-
+|{{Blocklink|Blue Carpet}}||blue_carpet||[[Java Edition 13w16a|13w16a]]||-
+|-
+|{{Blocklink|Purple Carpet}}||purple_carpet||[[Java Edition 13w16a|13w16a]]||-
+|-
+|{{Blocklink|Magenta Carpet}}||magenta_carpet||[[Java Edition 13w16a|13w16a]]||-
+|-
+|{{Blocklink|Pink Carpet}}||pink_carpet||[[Java Edition 13w16a|13w16a]]||-
+|-
+|{{Blocklink|Hay Bale}}||hay_block||[[Java Edition 13w16a|13w16a]]||-
+|-
+|{{Blocklink|Terracotta}}||terracotta||[[Java Edition 13w17a|13w17a]]||-
+|-
+|{{Blocklink|Block of Coal}}||coal_block||[[Java Edition 13w18a|13w18a]]||-
+|-
+|{{Blocklink|Large Fern}}||large_fern||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{Blocklink|Allium}}||allium||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{Blocklink|Azure Bluet}}||azure_bluet||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{Blocklink|Blue Orchid}}||blue_orchid||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{Blocklink|Lilac}}||lilac||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{Blocklink|Oxeye Daisy}}||oxeye_daisy||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{Blocklink|Peony}}||peony||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{Blocklink|Rose Bush}}||rose_bush||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{Blocklink|Sunflower}}||sunflower||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{Blocklink|Red Tulip}}||red_tulip||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{Blocklink|Orange Tulip}}||orange_tulip||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{Blocklink|White Tulip}}||white_tulip||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{Blocklink|Pink Tulip}}||pink_tulip||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{Blocklink|Tall Grass}}||tall_grass||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{Blocklink|Coarse Dirt}}||coarse_dirt||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{BlockLink|Infested Mossy Stone Bricks}}||infested_mossy_stone_bricks||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{BlockLink|Infested Cracked Stone Bricks}}||infested_cracked_stone_bricks||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{BlockLink|Infested Chiseled Stone Bricks}}||infested_chiseled_stone_bricks||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{BlockLink|Packed Ice}}||packed_ice||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{BlockLink|Podzol}}||podzol||[[Java Edition 13w36a|13w36a]]||-
+|-
+|{{BlockLink|Red Sand}}||red_sand||[[Java Edition 13w39a|13w39a]]||-
+|-
+|{{Blocklink|White Stained Glass}}||white_stained_glass||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Light Gray Stained Glass}}||light_gray_stained_glass||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Gray Stained Glass}}||gray_stained_glass||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Black Stained Glass}}||black_stained_glass||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Brown Stained Glass}}||brown_stained_glass||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Red Stained Glass}}||red_stained_glass||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Orange Stained Glass}}||orange_stained_glass||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Yellow Stained Glass}}||yellow_stained_glass||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Lime Stained Glass}}||lime_stained_glass||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Green Stained Glass}}||green_stained_glass||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Cyan Stained Glass}}||cyan_stained_glass||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Light Blue Stained Glass}}||light_blue_stained_glass||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Blue Stained Glass}}||blue_stained_glass||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Purple Stained Glass}}||purple_stained_glass||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Magenta Stained Glass}}||magenta_stained_glass||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Pink Stained Glass}}||pink_stained_glass||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|White Stained Glass Pane}}||white_stained_glass_pane||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Light Gray Stained Glass Pane}}||light_gray_stained_glass_pane||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Gray Stained Glass Pane}}||gray_stained_glass_pane||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Black Stained Glass Pane}}||black_stained_glass_pane||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Brown Stained Glass Pane}}||brown_stained_glass_pane||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Red Stained Glass Pane}}||red_stained_glass_pane||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Orange Stained Glass Pane}}||orange_stained_glass_pane||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Yellow Stained Glass Pane}}||yellow_stained_glass_pane||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Lime Stained Glass Pane}}||lime_stained_glass_pane||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Green Stained Glass Pane}}||green_stained_glass_pane||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Cyan Stained Glass Pane}}||cyan_stained_glass_pane||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Light Blue Stained Glass Pane}}||light_blue_stained_glass_pane||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Blue Stained Glass Pane}}||blue_stained_glass_pane||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Purple Stained Glass Pane}}||purple_stained_glass_pane||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Magenta Stained Glass Pane}}||magenta_stained_glass_pane||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{Blocklink|Pink Stained Glass Pane}}||pink_stained_glass_pane||[[Java Edition 13w41a|13w41a]]||-
+|-
+|{{BlockLink|Acacia Wood}}<ref name="extreme_metadata" group="note" />||acacia_wood||[[Java Edition 13w43a|13w43a]]||-
+|-
+|{{BlockLink|Acacia Log}}||acacia_log||[[Java Edition 13w43a|13w43a]]||-
+|-
+|{{BlockLink|Acacia Sapling}}||acacia_sapling||[[Java Edition 13w43a|13w43a]]||-
+|-
+|{{BlockLink|Acacia Leaves}}||acacia_leaves||[[Java Edition 13w43a|13w43a]]||-
+|-
+|{{BlockLink|Dark Oak Wood}}<ref name="extreme_metadata" group="note" />||dark_oak_wood||[[Java Edition 13w43a|13w43a]]||-
+|-
+|{{BlockLink|Dark Oak Log}}||dark_oak_log||[[Java Edition 13w43a|13w43a]]||-
+|-
+|{{BlockLink|Dark Oak Sapling}}||dark_oak_sapling||[[Java Edition 13w43a|13w43a]]||-
+|-
+|{{BlockLink|Dark Oak Leaves}}||dark_oak_leaves||[[Java Edition 13w43a|13w43a]]||-
+|-
+|{{BlockLink|Acacia Planks}}||acacia_planks||[[Java Edition 1.7|1.7]]||-
+|-
+|{{BlockLink|Acacia Slab}}||acacia_slab||[[Java Edition 1.7|1.7]]||-
+|-
+|{{BlockLink|Acacia Stairs}}||acacia_stairs||[[Java Edition 1.7|1.7]]||-
+|-
+|{{BlockLink|Dark Oak Planks}}||dark_oak_planks||[[Java Edition 1.7|1.7]]||-
+|-
+|{{BlockLink|Dark Oak Slab}}||dark_oak_slab||[[Java Edition 1.7|1.7]]||-
+|-
+|{{BlockLink|Dark Oak Stairs}}||dark_oak_stairs||[[Java Edition 1.7|1.7]]||-
+|-
+|{{BlockLink|Granite}}||granite||[[Java Edition 14w02a|14w02a]]||-
+|-
+|{{BlockLink|Polished Granite}}||polished_granite||[[Java Edition 14w02a|14w02a]]||-
+|-
+|{{BlockLink|Diorite}}||diorite||[[Java Edition 14w02a|14w02a]]||-
+|-
+|{{BlockLink|Polished Diorite}}||polished_diorite||[[Java Edition 14w02a|14w02a]]||-
+|-
+|{{BlockLink|Andesite}}||andesite||[[Java Edition 14w02a|14w02a]]||-
+|-
+|{{BlockLink|Polished Andesite}}||polished_andesite||[[Java Edition 14w02a|14w02a]]||-
+|-
+|{{BlockLink|Slime Block}}||slime_block||[[Java Edition 14w02a|14w02a]]||-
+|-
+|{{BlockLink|Barrier}}||barrier||[[Java Edition 14w05a|14w05a]]||-
+|-
+|{{BlockLink|Iron Trapdoor}}||iron_trapdoor||[[Java Edition 14w07a|14w07a]]||-
+|-
+|{{BlockLink|Prismarine}}||prismarine||[[Java Edition 14w25a|14w25a]]||-
+|-
+|{{BlockLink|Prismarine Bricks}}||prismarine_bricks||[[Java Edition 14w25a|14w25a]]||-
+|-
+|{{BlockLink|Dark Prismarine}}||dark_prismarine||[[Java Edition 14w25a|14w25a]]||-
+|-
+|{{BlockLink|Sea Lantern}}||sea_lantern||[[Java Edition 14w25a|14w25a]]||-
+|-
+|{{BlockLink|Wet Sponge}}||wet_sponge||[[Java Edition 14w25a|14w25a]]||-
+|-
+|{{BlockLink|White Banner}}||white_banner||[[Java Edition 14w30a|14w30a]]||-
+|-
+|{{BlockLink|Light Gray Banner}}||light_gray_banner||[[Java Edition 14w30a|14w30a]]||-
+|-
+|{{BlockLink|Gray Banner}}||gray_banner||[[Java Edition 14w30a|14w30a]]||-
+|-
+|{{BlockLink|Black Banner}}||black_banner||[[Java Edition 14w30a|14w30a]]||-
+|-
+|{{BlockLink|Brown Banner}}||brown_banner||[[Java Edition 14w30a|14w30a]]||-
+|-
+|{{BlockLink|Red Banner}}||red_banner||[[Java Edition 14w30a|14w30a]]||-
+|-
+|{{BlockLink|Orange Banner}}||orange_banner||[[Java Edition 14w30a|14w30a]]||-
+|-
+|{{BlockLink|Yellow Banner}}||yellow_banner||[[Java Edition 14w30a|14w30a]]||-
+|-
+|{{BlockLink|Lime Banner}}||lime_banner||[[Java Edition 14w30a|14w30a]]||-
+|-
+|{{BlockLink|Green Banner}}||green_banner||[[Java Edition 14w30a|14w30a]]||-
+|-
+|{{BlockLink|Cyan Banner}}||cyan_banner||[[Java Edition 14w30a|14w30a]]||-
+|-
+|{{BlockLink|Light Blue Banner}}||light_blue_banner||[[Java Edition 14w30a|14w30a]]||-
+|-
+|{{BlockLink|Blue Banner}}||blue_banner||[[Java Edition 14w30a|14w30a]]||-
+|-
+|{{BlockLink|Purple Banner}}||purple_banner||[[Java Edition 14w30a|14w30a]]||-
+|-
+|{{BlockLink|Magenta Banner}}||magenta_banner||[[Java Edition 14w30a|14w30a]]||-
+|-
+|{{BlockLink|Pink Banner}}||pink_banner||[[Java Edition 14w30a|14w30a]]||-
+|-
+|{{BlockLink|Red Sandstone}}||red_sandstone||[[Java Edition 14w32a|14w32a]]||-
+|-
+|{{BlockLink|Cut Red Sandstone}}||cut_red_sandstone||[[Java Edition 14w32a|14w32a]]||-
+|-
+|{{BlockLink|Chiseled Red Sandstone}}||chiseled_red_sandstone||[[Java Edition 14w32a|14w32a]]||-
+|-
+|{{BlockLink|Smooth Red Sandstone}}||smooth_red_sandstone||[[Java Edition 14w32a|14w32a]]||-
+|-
+|{{BlockLink|Red Sandstone Slab}}||red_sandstone_slab||[[Java Edition 14w32a|14w32a]]||-
+|-
+|{{BlockLink|Red Sandstone Stairs}}||red_sandstone_stairs||[[Java Edition 14w32a|14w32a]]||-
+|-
+|{{BlockLink|Spruce Fence}}||spruce_fence||[[Java Edition 14w32b|14w32b]]||-
+|-
+|{{BlockLink|Birch Fence}}||birch_fence||[[Java Edition 14w32b|14w32b]]||-
+|-
+|{{BlockLink|Jungle Fence}}||jungle_fence||[[Java Edition 14w32b|14w32b]]||-
+|-
+|{{BlockLink|Acacia Fence}}||acacia_fence||[[Java Edition 14w32b|14w32b]]||-
+|-
+|{{BlockLink|Dark Oak Fence}}||dark_oak_fence||[[Java Edition 14w32b|14w32b]]||-
+|-
+|{{BlockLink|Spruce Fence Gate}}||spruce_fence_gate||[[Java Edition 14w32b|14w32b]]||-
+|-
+|{{BlockLink|Birch Fence Gate}}||birch_fence_gate||[[Java Edition 14w32b|14w32b]]||-
+|-
+|{{BlockLink|Jungle Fence Gate}}||jungle_fence_gate||[[Java Edition 14w32b|14w32b]]||-
+|-
+|{{BlockLink|Acacia Fence Gate}}||acacia_fence_gate||[[Java Edition 14w32b|14w32b]]||-
+|-
+|{{BlockLink|Dark Oak Fence Gate}}||dark_oak_fence_gate||[[Java Edition 14w32b|14w32b]]||-
+|-
+|{{BlockLink|Spruce Door}}||spruce_door||[[Java Edition 14w32d|14w32d]]||-
+|-
+|{{BlockLink|Birch Door}}||birch_door||[[Java Edition 14w32d|14w32d]]||-
+|-
+|{{BlockLink|Jungle Door}}||jungle_door||[[Java Edition 14w32d|14w32d]]||-
+|-
+|{{BlockLink|Acacia Door}}||acacia_door||[[Java Edition 14w32d|14w32d]]||-
+|-
+|{{BlockLink|Dark Oak Door}}||dark_oak_dooor||[[Java Edition 14w32d|14w32d]]||-
+|-
+|{{BlockLink|Dirt Path}}||dirt_path||[[Java Edition 15w31a|15w31a]]||-
+|-
+|{{BlockLink|Structure Block}}||structure_block||[[Java Edition 15w31a|15w31a]]||-
+|-
+|{{BlockLink|Dragon Head}}||dragon_head||[[Java Edition 15w31a|15w31a]]||-
+|-
+|{{BlockLink|End Gateway}}||end_gateway||[[Java Edition 15w31a|15w31a]]||-
+|-
+|{{BlockLink|End Rod}}||end_rod||[[Java Edition 15w31a|15w31a]]||-
+|-
+|{{BlockLink|End Stone Bricks}}||end_stone_bricks||[[Java Edition 15w31a|15w31a]]||-
+|-
+|{{BlockLink|Purpur Block}}||purpur_block||[[Java Edition 15w31a|15w31a]]||-
+|-
+|{{BlockLink|Purpur Pillar}}||purpur_pillar||[[Java Edition 15w31a|15w31a]]||-
+|-
+|{{BlockLink|Purpur Slab}}||purpur_slab||[[Java Edition 15w31a|15w31a]]||-
+|-
+|{{BlockLink|Purpur Stairs}}||purpur_stairs||[[Java Edition 15w31a|15w31a]]||-
+|-
+|{{BlockLink|Chorus Plant}}||chorus_plant||[[Java Edition 15w31a|15w31a]]||-
+|-
+|{{BlockLink|Chorus Flower}}||chorus_flower||[[Java Edition 15w31a|15w31a]]||-
+|-
+|{{BlockLink|Chain Command Block}}||chain_command_block||[[Java Edition 15w34a|15w34a]]||-
+|-
+|{{BlockLink|Repeating Command Block}}||repeating_commannd_block||[[Java Edition 15w34a|15w34a]]||-
+|-
+|{{BlockLink|Frosted Ice}}||frosted_ice||[[Java Edition 15w42a|15w42a]]||-
+|-
+|{{BlockLink|Bone Block}}||bone_block||[[Java Edition 16w20a|16w20a]]||-
+|-
+|{{BlockLink|Magma Block}}||magma_block||[[Java Edition 16w20a|16w20a]]||-
+|-
+|{{BlockLink|Nether Wart Block}}||nether_wart_block||[[Java Edition 16w20a|16w20a]]||-
+|-
+|{{BlockLink|Red Nether Bricks}}||red_nether_bricks||[[Java Edition 16w20a|16w20a]]||-
+|-
+|{{BlockLink|Structure Void}}||structure_void||[[Java Edition 16w20a|16w20a]]||-
+|-
+|{{BlockLink|Observer}}||observer||[[Java Edition 16w39a|16w39a]]||-
+|-
+|{{Blocklink|White Shulker Box}}||white_shulker_box||[[Java Edition 16w39a|16w39a]]||-
+|-
+|{{Blocklink|Light Gray Shulker Box}}||light_gray_shulker_box||[[Java Edition 16w39a|16w39a]]||-
+|-
+|{{Blocklink|Gray Shulker Box}}||gray_shulker_box||[[Java Edition 16w39a|16w39a]]||-
+|-
+|{{Blocklink|Black Shulker Box}}||black_shulker_box||[[Java Edition 16w39a|16w39a]]||-
+|-
+|{{Blocklink|Brown Shulker Box}}||brown_shulker_box||[[Java Edition 16w39a|16w39a]]||-
+|-
+|{{Blocklink|Red Shulker Box}}||red_shulker_box||[[Java Edition 16w39a|16w39a]]||-
+|-
+|{{Blocklink|Orange Shulker Box}}||orange_shulker_box||[[Java Edition 16w39a|16w39a]]||-
+|-
+|{{Blocklink|Yellow Shulker Box}}||yellow_shulker_box||[[Java Edition 16w39a|16w39a]]||-
+|-
+|{{Blocklink|Lime Shulker Box}}||lime_shulker_box||[[Java Edition 16w39a|16w39a]]||-
+|-
+|{{Blocklink|Green Shulker Box}}||green_shulker_box||[[Java Edition 16w39a|16w39a]]||-
+|-
+|{{Blocklink|Cyan Shulker Box}}||cyan_shulker_box||[[Java Edition 16w39a|16w39a]]||-
+|-
+|{{Blocklink|Light Blue Shulker Box}}||light_blue_shulker_box||[[Java Edition 16w39a|16w39a]]||-
+|-
+|{{Blocklink|Blue Shulker Box}}||blue_shulker_box||[[Java Edition 16w39a|16w39a]]||-
+|-
+|{{Blocklink|Purple Shulker Box}}||purple_shulker_box||[[Java Edition 16w39a|16w39a]]||-
+|-
+|{{Blocklink|Magenta Shulker Box}}||magenta_shulker_box||[[Java Edition 16w39a|16w39a]]||-
+|-
+|{{Blocklink|Pink Shulker Box}}||pink_shulker_box||[[Java Edition 16w39a|16w39a]]||-
+|-
+|{{Blocklink|White Concrete}}||white_concrete||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Light Gray Concrete}}||light_gray_concrete||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Gray Concrete}}||gray_concrete||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Black Concrete}}||black_concrete||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Brown Concrete}}||brown_concrete||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Red Concrete}}||red_concrete||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Orange Concrete}}||orange_concrete||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Yellow Concrete}}||yellow_concrete||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Lime Concrete}}||lime_concrete||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Green Concrete}}||green_concrete||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Cyan Concrete}}||cyan_concrete||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Light Blue Concrete}}||light_blue_concrete||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Blue Concrete}}||blue_concrete||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Purple Concrete}}||purple_concrete||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Magenta Concrete}}||magenta_concrete||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Pink Concrete}}||pink_concrete||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|White Concrete Powder}}||white_concrete_powder||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Light Gray Concrete Powder}}||light_gray_concrete_powder||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Gray Concrete Powder}}||gray_concrete_powder||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Black Concrete Powder}}||black_concrete_powder||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Brown Concrete Powder}}||brown_concrete_powder||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Red Concrete Powder}}||red_concrete_powder||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Orange Concrete Powder}}||orange_concrete_powder||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Yellow Concrete Powder}}||yellow_concrete_powder||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Lime Concrete Powder}}||lime_concrete_powder||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Green Concrete Powder}}||green_concrete_powder||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Cyan Concrete Powder}}||cyan_concrete_powder||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Light Blue Concrete Powder}}||light_blue_concrete_powder||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Blue Concrete Powder}}||blue_concrete_powder||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Purple Concrete Powder}}||purple_concrete_powder||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Magenta Concrete Powder}}||magenta_concrete_powder||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Pink Concrete Powder}}||pink_concrete_powder||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|White Glazed Terracotta}}||white_glazed_terracotta||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Light Gray Glazed Terracotta}}||light_gray_glazed_terracotta||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Gray Glazed Terracotta}}||gray_glazed_terracotta||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Black Glazed Terracotta}}||black_glazed_terracotta||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Brown Glazed Terracotta}}||brown_glazed_terracotta||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Red Glazed Terracotta}}||red_glazed_terracotta||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Orange Glazed Terracotta}}||orange_glazed_terracotta||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Yellow Glazed Terracotta}}||yellow_glazed_terracotta||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Lime Glazed Terracotta}}||lime_glazed_terracotta||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Green Glazed Terracotta}}||green_glazed_terracotta||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Cyan Glazed Terracotta}}||cyan_glazed_terracotta||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Light Blue Glazed Terracotta}}||light_blue_glazed_terracotta||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Blue Glazed Terracotta}}||blue_glazed_terracotta||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Purple Glazed Terracotta}}||purple_glazed_terracotta||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Magenta Glazed Terracotta}}||magenta_glazed_terracotta||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{Blocklink|Pink Glazed Terracotta}}||pink_glazed_terracotta||[[Java Edition 17w06a|17w06a]]||-
+|-
+|{{BlockLink|Acacia Button}}||acacia_button||[[Java Edition 17w47a|17w47a]]||-
+|-
+|{{BlockLink|Acacia Pressure Plate}}||acacia_pressure_plate||[[Java Edition 17w47a|17w47a]]||-
+|-
+|{{BlockLink|Acacia Trapdoor}}||acacia_trapdoor||[[Java Edition 17w47a|17w47a]]||-
+|-
+|{{BlockLink|Birch Button}}||birch_button||[[Java Edition 17w47a|17w47a]]||-
+|-
+|{{BlockLink|Birch Pressure Plate}}||birch_pressure_plate||[[Java Edition 17w47a|17w47a]]||-
+|-
+|{{BlockLink|Birch Trapdoor}}||birch_trapdoor||[[Java Edition 17w47a|17w47a]]||-
+|-
+|{{BlockLink|Dark Oak Button}}||dark_oak_button||[[Java Edition 17w47a|17w47a]]||-
+|-
+|{{BlockLink|Dark Oak Pressure Plate}}||dark_oak_pressure_plate||[[Java Edition 17w47a|17w47a]]||-
+|-
+|{{BlockLink|Dark Oak Trapdoor}}||dark_oak_trapdoor||[[Java Edition 17w47a|17w47a]]||-
+|-
+|{{BlockLink|Jungle Button}}||jungle_button||[[Java Edition 17w47a|17w47a]]||-
+|-
+|{{BlockLink|Jungle Pressure Plate}}||jungle_pressure_plate||[[Java Edition 17w47a|17w47a]]||-
+|-
+|{{BlockLink|Jungle Trapdoor}}||jungle_trapdoor||[[Java Edition 17w47a|17w47a]]||-
+|-
+|{{BlockLink|Spruce Button}}||spruce_button||[[Java Edition 17w47a|17w47a]]||-
+|-
+|{{BlockLink|Spruce Pressure Plate}}||spruce_pressure_plate||[[Java Edition 17w47a|17w47a]]||-
+|-
+|{{BlockLink|Spruce Trapdoor}}||spruce_trapdoor||[[Java Edition 17w47a|17w47a]]||-
+|-
+|{{BlockLink|Stripped Acacia Log}}||stripped_acacia_log||[[Java Edition 18w07a|18w07a]]||-
+|-
+|{{BlockLink|Stripped Birch Log}}||stripped_birch_log||[[Java Edition 18w07a|18w07a]]||-
+|-
+|{{BlockLink|Stripped Dark Oak Log}}||stripped_dark_oak_log||[[Java Edition 18w07a|18w07a]]||-
+|-
+|{{BlockLink|Stripped Jungle Log}}||stripped_jungle_log||[[Java Edition 18w07a|18w07a]]||-
+|-
+|{{BlockLink|Stripped Oak Log}}||stripped_oak_log||[[Java Edition 18w07a|18w07a]]||-
+|-
+|{{BlockLink|Stripped Spruce Log}}||stripped_spruce_log||[[Java Edition 18w07a|18w07a]]||-
+|-
+|{{BlockLink|Bubble Column}}||bubble_column||[[Java Edition 18w07a|18w07a]]||-
+|-
+|{{BlockLink|Kelp}}||kelp||[[Java Edition 18w07a|18w07a]]||-
+|-
+|{{BlockLink|Seagrass}}||seagrass||[[Java Edition 18w07a|18w07a]]||-
+|-
+|{{BlockLink|Dried Kelp Block}}||dried_kelp_block||[[Java Edition 18w07a|18w07a]]||-
+|-
+|{{BlockLink|Prismarine Slab}}||prismarine_slab||[[Java Edition 18w07a|18w07a]]||-
+|-
+|{{BlockLink|Prismarine Stairs}}||prismarine_stairs||[[Java Edition 18w07a|18w07a]]||-
+|-
+|{{BlockLink|Turtle Egg}}||turtle_egg||[[Java Edition 18w07a|18w07a]]||-
+|-
+|{{BlockLink|Brain Coral Block}}||brain_coral_block||[[Java Edition 18w09a|18w09a]]||-
+|-
+|{{BlockLink|Bubble Coral Block}}||bubble_coral_block||[[Java Edition 18w09a|18w09a]]||-
+|-
+|{{BlockLink|Fire Coral Block}}||fire_coral_block||[[Java Edition 18w09a|18w09a]]||-
+|-
+|{{BlockLink|Horn Coral Block}}||horn_coral_block||[[Java Edition 18w09a|18w09a]]||-
+|-
+|{{BlockLink|Tube Coral Block}}||tube_coral_block||[[Java Edition 18w09a|18w09a]]||-
+|-
+|{{BlockLink|Tube Coral}}||tube_coral||[[Java Edition 18w10a|18w10a]]||-
+|-
+|{{BlockLink|Fire Coral}}||fire_coral||[[Java Edition 18w10a|18w10a]]||-
+|-
+|{{BlockLink|Brain Coral}}||brain_coral||[[Java Edition 18w10a|18w10a]]||-
+|-
+|{{BlockLink|Bubble Coral}}||bubble_coral||[[Java Edition 18w10a|18w10a]]||-
+|-
+|{{BlockLink|Horn Coral}}||horn_coral||[[Java Edition 18w10a|18w10a]]||-
+|-
+|{{BlockLink|Tube Coral Block}}||tube_coral_block||[[Java Edition 18w10b|18w10b]]||-
+|-
+|{{BlockLink|Brain Coral Block}}||brain_coral_block||[[Java Edition 18w10b|18w10b]]||-
+|-
+|{{BlockLink|Bubble Coral Block}}||bubble_coral_block||[[Java Edition 18w10b|18w10b]]||-
+|-
+|{{BlockLink|Fire Coral Block}}||fire_coral_block||[[Java Edition 18w10b|18w10b]]||-
+|-
+|{{BlockLink|Horn Coral Block}}||horn_coral_block||[[Java Edition 18w10b|18w10b]]||-
+|-
+|{{BlockLink|Shulker Box}}||shulker_box||[[Java Edition 18w10b|18w10b]]||-
+|-
+|{{BlockLink|Tube Coral Fan}}||tube_coral_fan||[[Java Edition 18w11a|18w11a]]||-
+|-
+|{{BlockLink|Fire Coral Fan}}||fire_coral_fan||[[Java Edition 18w11a|18w11a]]||-
+|-
+|{{BlockLink|Brain Coral Fan}}||brain_coral_fan||[[Java Edition 18w11a|18w11a]]||-
+|-
+|{{BlockLink|Bubble Coral Fan}}||bubble_coral_fan||[[Java Edition 18w11a|18w11a]]||-
+|-
+|{{BlockLink|Horn Coral Fan}}||horn_coral_fan||[[Java Edition 18w11a|18w11a]]||-
+|-
+|{{BlockLink|Sea Pickle}}||sea_pickle||[[Java Edition 18w14b|18w14b]]||-
+|-
+|{{BlockLink|Blue Ice}}||blue_ice||[[Java Edition 18w15a|18w15a]]||-
+|-
+|{{BlockLink|Conduit}}||conduit||[[Java Edition 18w15a|18w15a]]||-
+|-
+|{{BlockLink|Stripped Oak Wood}}||stripped_oak_wood||[[Java Edition 1.13-pre2|1.13-pre2]]||-
+|-
+|{{BlockLink|Stripped Birch Wood}}||stripped_birch_wood||[[Java Edition 1.13-pre2|1.13-pre2]]||-
+|-
+|{{BlockLink|Stripped Spruce Wood}}||stripped_spruce_wood||[[Java Edition 1.13-pre2|1.13-pre2]]||-
+|-
+|{{BlockLink|Stripped Jungle Wood}}||stripped_jungle_wood||[[Java Edition 1.13-pre2|1.13-pre2]]||-
+|-
+|{{BlockLink|Stripped Acacia Wood}}||stripped_acacia_wood||[[Java Edition 1.13-pre2|1.13-pre2]]||-
+|-
+|{{BlockLink|Stripped Dark Oak Wood}}||stripped_dark_oak_wood||[[Java Edition 1.13-pre2|1.13-pre2]]||-
+|-
+|{{BlockLink|Dead Tube Coral Fan}}||dead_tube_coral_fan||[[Java Edition 1.13-pre8|1.13-pre8]]||-
+|-
+|{{BlockLink|Dead Brain Coral Fan}}||dead_brain_coral_fan||[[Java Edition 1.13-pre8|1.13-pre8]]||-
+|-
+|{{BlockLink|Dead Bubble Coral Fan}}||dead_bubble_coral_fan||[[Java Edition 1.13-pre8|1.13-pre8]]||-
+|-
+|{{BlockLink|Dead Fire Coral Fan}}||dead_fire_coral_fan||[[Java Edition 1.13-pre8|1.13-pre8]]||-
+|-
+|{{BlockLink|Dead Horn Coral Fan}}||dead_horn_coral_fan||[[Java Edition 1.13-pre8|1.13-pre8]]||-
+|-
+|{{BlockLink|Dead Tube Coral}}||dead_tube_coral||[[Java Edition 18w32a|18w32a]]||-
+|-
+|{{BlockLink|Dead Brain Coral}}||dead_brain_coral||[[Java Edition 18w32a|18w32a]]||-
+|-
+|{{BlockLink|Dead Bubble Coral}}||dead_bubble_coral||[[Java Edition 18w32a|18w32a]]||-
+|-
+|{{BlockLink|Dead Fire Coral}}||dead_fire_coral||[[Java Edition 18w32a|18w32a]]||-
+|-
+|{{BlockLink|Dead Horn Coral}}||dead_horn_coral||[[Java Edition 18w32a|18w32a]]||-
+|-
+|{{BlockLink|Bamboo}}||bamboo||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Cornflower}}||cornflower||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Wither Rose}}||wither_rose||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Lily of the Valley}}||lily_of_the_valley||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Loom}}||loom||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Birch Sign}}||birch_sign||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Spruce Sign}}||spruce_sign||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Jungle Sign}}||jungle_sign||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Acacia Sign}}||acacia_sign||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Dark Oak Sign}}||dark_oak_sign||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Stone Slab}}||stone_slab||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Andesite Slab}}||andesite_slab||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Polished Andesite Slab}}||polished_andesite_slab||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Diorite Slab}}||diorite_slab||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Polished Diorite Slab}}||polished_Diorite_slab||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Granite Slab}}||granite_slab||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Polished Granite Slab}}||polished_granite_slab||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Mossy Stone Brick Slab}}||mossy_stone_brick_slab||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Mossy Cobblestone Slab}}||mossy_cobblestone_slab||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Smooth Sandstone Slab}}||smooth_sandstone_slab||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Smooth Red Sandstone Slab}}||smooth_red_sandstone_slab||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Smooth Quartz Slab}}||smooth_quartz_slab||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Red Nether Brick Slab}}||red_nether_brick_slab||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|End Stone Brick Slab}}||end_stone_brick_slab||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Brick Wall}}||brick_wall||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Andesite Wall}}||andesite_wall||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Diorite Wall}}||diorite_wall||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Granite Wall}}||granite_wall||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Prismarine Wall}}||prismarine_wall||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Stone Brick Wall}}||stone_brick_wall||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Mossy Stone Brick Wall}}||mossy_stone_brick_wall||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Sandstone Wall}}||sandstone_wall||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Red Sandstone Wall}}||red_sandstone_wall||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Nether Brick Wall}}||nether_brick_wall||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Red Nether Brick Wall}}||red_nether_brick_wall||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|End Stone Brick Wall}}||end_stone_brick_wall||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Brick Wall}}||brick_wall||[[Java Edition 18w43a|18w43a]]||-
+|-
+|{{BlockLink|Barrel}}||barrel||[[Java Edition 18w44a|18w44a]]||-
+|-
+|{{BlockLink|Blast Furnace}}||blast_furnace||[[Java Edition 18w44a|18w44a]]||-
+|-
+|{{BlockLink|Bell}}||bell||[[Java Edition 18w44a|18w44a]]||-
+|-
+|{{BlockLink|Smoker}}||smoker||[[Java Edition 18w44a|18w44a]]||-
+|-
+|{{BlockLink|Cartography Table}}||cartography_table||[[Java Edition 18w44a|18w44a]]||-
+|-
+|{{BlockLink|Fletching Table}}||fletching_table||[[Java Edition 18w44a|18w44a]]||-
+|-
+|{{BlockLink|Smithing Table}}||smithing_table||[[Java Edition 18w44a|18w44a]]||-
+|-
+|{{BlockLink|Stonecutter}}||stonecutter||[[Java Edition 18w44a|18w44a]]||-
+|-
+|{{BlockLink|Grindstone}}||grindstone||[[Java Edition 18w44a|18w44a]]||-
+|-
+|{{BlockLink|Lectern}}||lectern||[[Java Edition 18w44a|18w44a]]||-
+|-
+|{{BlockLink|Scaffolding}}||scaffolding||[[Java Edition 18w45a|18w45a]]||-
+|-
+|{{BlockLink|Lantern}}||lantern||[[Java Edition 18w46a|18w46a]]||-
+|-
+|{{BlockLink|Jigsaw Block}}||jigsaw||[[Java Edition 18w46a|18w46a]]||-
+|-
+|{{BlockLink|Sweet Berry Bush}}||sweet_berry_bush||[[Java Edition 18w49a|18w49a]]||-
+|-
+|{{BlockLink|Campfire}}||campfire||[[Java Edition 19w02a|19w02a]]||-
+|-
+|{{BlockLink|Composter}}||composter||[[Java Edition 19w03a|19w03a]]||-
+|-
+|{{BlockLink|Cut Sandstone Slab}}||cut_sandstone_slab||[[Java Edition 19w12a|19w12a]]||-
+|-
+|{{BlockLink|Cut Red Sandstone Slab}}||cut_red_sandstone_slab||[[Java Edition 19w12a|19w12a]]||-
+|-
+|{{BlockLink|Bee Nest}}||bee_nest||[[Java Edition 19w34a|19w34a]]||-
+|-
+|{{BlockLink|Beehive}}||beehive||[[Java Edition 19w34a|19w34a]]||-
+|-
+|{{BlockLink|Honey Block}}||honey_block||[[Java Edition 19w41a|19w41a]]||-
+|-
+|{{BlockLink|Honeycomb Block}}||honeycomb_block||[[Java Edition 19w41a|19w41a]]|| -
+|-
+|{{BlockLink|Ancient Debris}}||ancient_debris||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Basalt}}||basalt||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Block of Netherite}}||netherite_block||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Crimson Fungus}}||crimson_fungus||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Warped Fungus}}||warped_fungus||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Crimson Nylium}}||crimson_nylium||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Warped Nylium}}||warped_nylium||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Crimson Stem}}||crimson_stem||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Warped Stem}}||warped_stem||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Stripped Crimson Stem}}||stripped_crimson_stem||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Stripped Warped Stem}}||stripped_warped_stem||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Crimson Planks}}||crimson_planks||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Warped Planks}}||warped_planks||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Crimson Slab}}||crimson_slab||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Warped Slab}}||warped_slab||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Crimson Stairs}}||crimson_stairs||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Warped Stairs}}||warped_stairs||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Crimson Fence}}||crimson_fence||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Warped Fence}}||warped_fence||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Crimson Fence Gate}}||crimson_fence_gate||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Warped Fence Gate}}||warped_fence_gate||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Crimson Pressure Plate}}||crimson_pressure_plate||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Warped Pressure Plate}}||warped_pressure_plate||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Crimson Button}}||crimson_button||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Warped Button}}||warped_button||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Crimson Door}}||crimson_door||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Warped Door}}||warped_door||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Crimson Trapdoor}}||crimson_trapdoor||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Warped Trapdoor}}||warped_trapdoor||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Crimson Sign}}||crimson_sign||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Warped Sign}}||warped_sign||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Crimson Roots}}||crimson_roots||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Warped Roots}}||warped_roots||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Nether Sprouts}}||nether_sprouts||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Shroomlight}}||shroomlight||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Soul Fire}}||soul fire||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Soul Torch}}||soul_torch||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Soul Lantern}}||soul_lantern||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Soul Soil}}||soul_soil||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Warped Wart Block}}||warped_wart_block||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Weeping Vines}}||weeping_vines||[[Java Edition 20w06a|20w06a]]||-
+|-
+|{{BlockLink|Crying Obsidian}}||crying_obsidian||[[Java Edition 20w09a|20w09a]]||-
+|-
+|{{BlockLink|Target}}||target||[[Java Edition 20w09a|20w09a]]||-
+|-
+|{{BlockLink|Crimson Hyphae}}||crimson_hyphae||[[Java Edition 20w10a|20w10a]]||-
+|-
+|{{BlockLink|Warped Hyphae}}||warped_hyphae||[[Java Edition 20w10a|20w10a]]||-
+|-
+|{{BlockLink|Stripped Crimson Hyphae}}||stripped_crimson_hyphae||[[Java Edition 20w10a|20w10a]]||-
+|-
+|{{BlockLink|Stripped Warped Hyphae}}||stripped_warped_hyphae||[[Java Edition 20w10a|20w10a]]||-
+|-
+|{{BlockLink|Nether Gold Ore}}||nether_gold_ore||[[Java Edition 20w11a|20w11a]]||-
+|-
+|{{BlockLink|Twisting Vines}}||twisting_vines||[[Java Edition 20w11a|20w11a]]||-
+|-
+|{{BlockLink|Polished Basalt}}||polished_basalt||[[Java Edition 20w12a|20w12a]]||-
+|-
+|{{BlockLink|Respawn Anchor}}||respawn_anchor||[[Java Edition 20w12a|20w12a]]||-
+|-
+|{{BlockLink|Lodestone}}||lodestone||[[Java Edition 20w13a|20w13a]]||-
+|-
+|{{BlockLink|Chiseled Nether Bricks}}||chiseled_nether_bricks||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Cracked Nether Bricks}}||cracked_nether_bricks||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Blackstone}}||blackstone||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Blackstone Slab}}||blackstone_slab||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Blackstone Stairs}}||blackstone_stairs||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Blackstone Wall}}||blackstone_wall||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Polished Blackstone}}||polished_blackstone||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Polished Blackstone Slab}}||polished_blackstone_slab||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Polished Blackstone Stairs}}||polished_blackstone_stairs||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Polished Blackstone Wall}}||polished_blackstone_wall||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Polished Blackstone Button}}||polished_blackstone_button||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Polished Blackstone Pressure Plate}}||polished_blackstone_pressure_plate||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Chiseled Polished Blackstone}}||chiseled_polished_blackstone||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Polished Blackstone Bricks}}||polished_blackstone_bricks||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Polished Blackstone Brick Slab}}||polished_blackstone_brick_slab||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Polished Blackstone Brick Stairs}}||polished_blackstone_brick_stairs||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Polished Blackstone Brick Wall}}||polished_blackstone_brick_wall||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Cracked Polished Blackstone Bricks}}||cracked_polished_blackstone_bricks||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Gilded Blackstone}}||gilded_blackstone||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Quartz Bricks}}||quartz_bricks||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Soul Campfire}}||soul_campfire||[[Java Edition 20w15a|20w15a]]||-
+|-
+|{{BlockLink|Chain}}||chain||[[Java Edition 20w16a|20w16a]]||-
+|-
+|{{BlockLink|Small Amethyst Bud}}||small_amethyst_bud||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Medium Amethyst Bud}}||medium_amethyst_bud||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Large Amethyst Bud}}||large_amethyst_bud||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Amethyst Cluster}}||amethyst_cluster||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Block of Amethyst}}||amethyst_block||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Budding Amethyst}}||budding_amethyst||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Tinted Glass}}||tinted_glass||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Calcite}}||calcite||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Candle}}||candle||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|White Candle}}||white_candle||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Light Gray Candle}}||light_gray_candle||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Gray Candle}}||gray_candle||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Black Candle}}||black_candle||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Brown Candle}}||brown_candle||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Red Candle}}||red_candle||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Orange Candle}}||orange_candle||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Yellow Candle}}||yellow_candle||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Lime Candle}}||lime_candle||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Green Candle}}||green_candle||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Cyan Candle}}||cyan_candle||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Light Blue Candle}}||light_blue_candle||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Blue Candle}}||blue_candle||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Purple Candle}}||purple_candle||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Magenta Candle}}||magenta_candle||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Pink Candle}}||pink_candle||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Copper Ore}}||copper_ore||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Block of Copper}}||copper_block||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Exposed Copper}}||exposed_copper||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Weathered Copper}}||weathered_copper||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Oxidized Copper}}||oxidized_copper||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Waxed Block of Copper}}||waxed_copper_block||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Waxed Exposed Copper}}||waxed_exposed_copper||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Waxed Weathered Copper}}||waxed_weathered_copper||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Cut Copper}}||cut_copper||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Exposed Cut Copper}}||exposed_cut_copper||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Weathered Cut Copper}}||weathered_cut_copper||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Oxidized Cut Copper}}||oxidized_cut_copper||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Waxed Cut Copper}}||waxed_cut_copper||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Waxed Exposed Cut Copper}}||waxed_exposed_cut_copper||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Waxed Weathered Cut Copper}}||waxed_weathered_cut_copper||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Cut Copper Slab}}||cut_copper||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Exposed Cut Copper Slab}}||exposed_cut_copper_slab||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Weathered Cut Copper Slab}}||weathered_cut_copper_slab||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Oxidized Cut Copper Slab}}||oxidized_cut_copper_slab||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Waxed Cut Copper Slab}}||waxed_cut_copper_slab||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Waxed Exposed Cut Copper Slab}}||waxed_exposed_cut_copper_slab||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Waxed Weathered Cut Copper Slab}}||waxed_weathered_cut_copper_slab||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Cut Copper Stairs}}||cut_copper_stairs||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Exposed Cut Copper Stairs}}||exposed_cut_copper_stairs||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Weathered Cut Copper Stairs}}||weathered_cut_copper_stairs||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Oxidized Cut Copper Stairs}}||oxidized_cut_copper_stairs||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Waxed Cut Copper Stairs}}||waxed_cut_copper_stairs||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Waxed Exposed Cut Copper Stairs}}||waxed_exposed_cut_copper_stairs||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Waxed Weathered Cut Copper Stairs}}||waxed_weathered_cut_copper_stairs||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Lightning Rod}}||lightning_rod||[[Java Edition 20w45a|20w45a]]||-
+|-
+|{{BlockLink|Powder Snow}}||powder_snow||[[Java Edition 20w46a|20w46a]]||-
+|-
+|{{BlockLink|Dripstone Block}}||dripstone_block||[[Java Edition 20w48a|20w48a]]||-
+|-
+|{{BlockLink|Pointed Dripstone}}||pointed_dripstone||[[Java Edition 20w48a|20w48a]]||-
+|-
+|{{BlockLink|Sculk Sensor}}||sculk_sensor||[[Java Edition 20w49a|20w49a]]||-
+|-
+|{{BlockLink|Glow Lichen}}||glow_lichen||[[Java Edition 21w03a|21w03a]]||-
+|-
+|{{BlockLink|Azalea}}||azalea||[[Java Edition 21w05a|21w05a]]||-
+|-
+|{{BlockLink|Flowering Azalea}}||flowering_azalea||[[Java Edition 21w05a|21w05a]]||-
+|-
+|{{BlockLink|Azalea Leaves}}||azalea_leaves||[[Java Edition 21w05a|21w05a]]||-
+|-
+|{{BlockLink|Flowering Azalea Leaves}}||flowering_azalea_leaves||[[Java Edition 21w05a|21w05a]]||-
+|-
+|{{BlockLink|Cave Vines}}||cave_vines||[[Java Edition 21w05a|21w05a]]||-
+|-
+|{{BlockLink|Small Dripleaf}}||small_dripleaf||[[Java Edition 21w05a|21w05a]]||-
+|-
+|{{BlockLink|Big Dripleaf}}||big_dripleaf||[[Java Edition 21w05a|21w05a]]||-
+|-
+|{{BlockLink|Moss Block}}||moss_block||[[Java Edition 21w05a|21w05a]]||-
+|-
+|{{BlockLink|Moss Carpet}}||moss_carpet||[[Java Edition 21w05a|21w05a]]||-
+|-
+|{{BlockLink|Spore Blossom}}||spore_blossom||[[Java Edition 21w05a|21w05a]]||-
+|-
+|{{BlockLink|Rooted Dirt}}||rooted_dirt||[[Java Edition 21w05a|21w05a]]||-
+|-
+|{{BlockLink|Hanging Roots}}||hanging_roots||[[Java Edition 21w05a|21w05a]]||-
+|-
+|{{BlockLink|Deepslate}}||deepslate||[[Java Edition 21w07a|21w07a]]||-
+|-
+|{{BlockLink|Cobbled Deepslate Slab}}||cobbled_deepslate_slab||[[Java Edition 21w07a|21w07a]]||-
+|-
+|{{BlockLink|Cobbled Deepslate Stairs}}||cobbled_deepslate_stairs||[[Java Edition 21w07a|21w07a]]||-
+|-
+|{{BlockLink|Cobbled Deepslate Wall}}||cobbled_deepslate_wall||[[Java Edition 21w07a|21w07a]]||-
+|-
+|{{BlockLink|Chiseled Deepslate}}||chiseled_deepslate||[[Java Edition 21w07a|21w07a]]||-
+|-
+|{{BlockLink|Polished Deepslate}}||polished_deepslate||[[Java Edition 21w07a|21w07a]]||-
+|-
+|{{BlockLink|Polished Deepslate Slab}}||polished_deepslate_slab||[[Java Edition 21w07a|21w07a]]||-
+|-
+|{{BlockLink|Polished Deepslate Stairs}}||polished_deepslate_stairs||[[Java Edition 21w07a|21w07a]]||-
+|-
+|{{BlockLink|Polished Deepslate Wall}}||polished_deepslate_wall||[[Java Edition 21w07a|21w07a]]||-
+|-
+|{{BlockLink|Deepslate Bricks}}||deepslate_bricks||[[Java Edition 21w07a|21w07a]]||-
+|-
+|{{BlockLink|Deepslate Brick Slab}}||deepslate_brick_slab||[[Java Edition 21w07a|21w07a]]||-
+|-
+|{{BlockLink|Deepslate Brick Stairs}}||deepslate_brick_stairs||[[Java Edition 21w07a|21w07a]]||-
+|-
+|{{BlockLink|Deepslate Brick Wall}}||deepslate_brick_wall||[[Java Edition 21w07a|21w07a]]||-
+|-
+|{{BlockLink|Deepslate Tiles}}||deepslate_tiles||[[Java Edition 21w07a|21w07a]]||-
+|-
+|{{BlockLink|Deepslate Tile Slab}}||deepslate_tile_slab||[[Java Edition 21w07a|21w07a]]||-
+|-
+|{{BlockLink|Deepslate Tile Stairs}}||deepslate_tile_stairs||[[Java Edition 21w07a|21w07a]]||-
+|-
+|{{BlockLink|Deepslate Tile Wall}}||deepslate_tile_wall||[[Java Edition 21w07a|21w07a]]||-
+|-
+|{{BlockLink|Cobbled Deepslate}}||cobbled_deepslate||[[Java Edition 21w08a|21w08a]]||-
+|-
+|{{BlockLink|Deepslate Iron Ore}}||deepslate_iron_ore||[[Java Edition 21w08a|21w08a]]||-
+|-
+|{{BlockLink|Deepslate Gold Ore}}||deepslate_gold_ore||[[Java Edition 21w08a|21w08a]]||-
+|-
+|{{BlockLink|Deepslate Lapis Lazuli Ore}}||deepslate_lapis_lazuli_ore||[[Java Edition 21w08a|21w08a]]||-
+|-
+|{{BlockLink|Deepslate Redstone Ore}}||deepslate_redstone_ore||[[Java Edition 21w08a|21w08a]]||-
+|-
+|{{BlockLink|Deepslate Diamond Ore}}||deepslate_diamond_ore||[[Java Edition 21w08a|21w08a]]||-
+|-
+|{{BlockLink|Smooth Basalt}}||smooth_basalt||[[Java Edition 21w08a|21w08a]]||-
+|-
+|{{BlockLink|Deepslate Coal Ore}}||deepslate_coal_ore||[[Java Edition 21w10a|21w10a]]||-
+|-
+|{{BlockLink|Deepslate Copper Ore}}||deepslate_copper_ore||[[Java Edition 21w10a|21w10a]]||-
+|-
+|{{BlockLink|Deepslate Emerald Ore}}||deepslate_emerald_ore||[[Java Edition 21w10a|21w10a]]||-
+|-
+|{{BlockLink|Infested Deepslate}}||infested_deepslate||[[Java Edition 21w10a|21w10a]]||-
+|-
+|{{BlockLink|Cracked Deepslate Bricks}}||cracked_deepslate_bricks||[[Java Edition 21w10a|21w10a]]||-
+|-
+|{{BlockLink|Cracked Deepslate Tiles}}||cracked_deepslate_tiles||[[Java Edition 21w10a|21w10a]]||-
+|-
+|{{BlockLink|Light}}||light||[[Java Edition 21w13a|21w13a]]||-
+|-
+|{{BlockLink|Waxed Oxidized Copper}}||waxed_oxidized_copper||[[Java Edition 21w14a|21w14a]]||-
+|-
+|{{BlockLink|Waxed Oxidized Cut Copper}}||waxed_oxidized_cut_copper||[[Java Edition 21w14a|21w14a]]||-
+|-
+|{{BlockLink|Waxed Oxidized Cut Copper Slab}}||waxed_oxidized_cut_copper_slab||[[Java Edition 21w14a|21w14a]]||-
+|-
+|{{BlockLink|Waxed Oxidized Cut Copper Stairs}}||waxed_oxidized_cut_copper_stairs||[[Java Edition 21w14a|21w14a]]||-
+|-
+|{{BlockLink|Block of Raw Copper}}||raw_copper_block||[[Java Edition 21w15a|21w15a]]||-
+|-
+|{{BlockLink|Block of Raw Iron}}||raw_iron_block||[[Java Edition 21w15a|21w15a]]||-
+|-
+|{{BlockLink|Block of Raw Gold}}||raw_gold_block||[[Java Edition 21w15a|21w15a]]||-
+|-
+|{{BlockLink|Reinforced Deepslate}}||reinforced_deepslate||[[Java Edition Deep Dark Experimental Snapshot 1|Deep Dark Experimental Snapshot 1]], [[Java Edition 22w13a|22w13a]]||[[Java Edition 22w11a|22w11a]]
+|-
+|{{BlockLink|Sculk}}||sculk||[[Java Edition Deep Dark Experimental Snapshot 1|Deep Dark Experimental Snapshot 1]]||-
+|-
+|{{BlockLink|Sculk Catalyst}}||sculk_catalyst||[[Java Edition Deep Dark Experimental Snapshot 1|Deep Dark Experimental Snapshot 1]]||-
+|-
+|{{BlockLink|Sculk Shrieker}}||sculk_shrieker||[[Java Edition Deep Dark Experimental Snapshot 1|Deep Dark Experimental Snapshot 1]]||-
+|-
+|{{BlockLink|Sculk Vein}}||sculk_vein||[[Java Edition Deep Dark Experimental Snapshot 1|Deep Dark Experimental Snapshot 1]]||-
+|-
+|{{BlockLink|Frogspawn}}||frogspawn||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Pearlescent Froglight}}||perlescent_froglight||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Verdant Froglight}}||verdant_froglight||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Ochre Froglight}}||ochre_froglight||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mangrove Log}}||mangrove_log||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Stripped Mangrove Log}}||stripped_mangrove_log||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mangrove Wood}}||mangrove_wood||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Stripped Mangrove Wood}}||stripped_mangrove_wood||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mangrove Planks}}||mangrove_planks||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mangrove Slab}}||mangrove_slab||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mangrove Stairs}}||mangrove_stairs||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mangrove Fence}}||mangrove_fence||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mangrove Fence Gate}}||mangrove_fence_gate||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mangrove Pressure Plate}}||mangrove_pressure_plate||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mangrove Button}}||mangrove_button||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mangrove Door}}||mangrove_door||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mangrove Trapdoor}}||mangrove_trapdoor||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mangrove Sign}}||mangrove_sign||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mangrove Leaves}}||mangrove_leaves||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mangrove Propagule}}||mangrove_propagule||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mangrove Roots}}||mangrove_roots||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Muddy Mangrove Roots}}||muddy_mangrove_roots||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mud}}||mud||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Packed Mud}}||packed_mud||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mud Bricks}}||mud_bricks||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mud Brick Slab}}||mud_brick_slab||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mud Brick Stairs}}||mud_brick_stairs||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Mud Brick Wall}}||mud_brick_wall||[[Java Edition 22w11a|22w11a]]||-
+|-
+|{{BlockLink|Acacia Hanging Sign}}||acacia_hanging_sign||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Bamboo Button}}||bamboo_button||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Bamboo Door}}||bamboo_door||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Bamboo Fence}}||bamboo_fence||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Bamboo Fence Gate}}||bamboo_fence_gate||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Bamboo Hanging Sign}}||bamboo_hanging_sign||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Bamboo Mosaic}}||bamboo_mosaic||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Bamboo Planks}}||bamboo_planks||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Bamboo Pressure Plate}}||bamboo_pressure_plate||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Bamboo Sign}}||bamboo_sign||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Bamboo Slab}}||bamboo_slab||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Bamboo Stairs}}||bamboo_stairs||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Bamboo Trapdoor}}||bamboo_trapdoor||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Birch Hanging Sign}}||birch_hanging_sign||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Chiseled Bookshelf}}||chiseled_bookshelf||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Crimson Hanging Sign}}||crimson_hanging_sign||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Dark Oak Hanging Sign}}||dark_oak_hanging_sign||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Jungle Hanging Sign}}||jungle_hanging_sign||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Mangrove Hanging Sign}}||mangrove_hanging_sign||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Oak Hanging Sign}}||oak_hanging_sign||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Spruce Hanging Sign}}||spruce_hanging_sign||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Warped Hanging Sign}}||warped_hanging_sign||[[Java Edition 22w42a|22w42a]]||-
+|-
+|{{BlockLink|Block of Bamboo}}||bamboo_block||[[Java Edition 22w45a|22w45a]]||-
+|-
+|{{BlockLink|Block of Stripped Bamboo}}||stripped_bamboo_block||[[Java Edition 22w45a|22w45a]]||-
+|-
+|{{BlockLink|Piglin Head}}||piglin_head||[[Java Edition 22w46a|22w46a]]||-
+|-
+|{{BlockLink|Cherry Log}}||cherry_log||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Stripped Cherry Log}}||stripped_cherry_log||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Cherry Wood}}||cherry_wood||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Stripped Cherry Wood}}||stripped_cherry_wood||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Cherry Planks}}||cherry_planks||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Cherry Pressure Plate}}||cherry_pressure_plate||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Cherry Button}}||cherry_button||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Cherry Door}}||cherry_door||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Cherry Fence}}||cherry_fence||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Cherry Fence Gate}}||cherry_fence_gate||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Cherry Hanging Sign}}||cherry_hanging_sign||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Cherry Sign}}||cherry_sign||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Cherry Slab}}||cherry_slab||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Cherry Stairs}}||cherry_stairs||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Cherry Trapdoor}}||cherry_trapdoor||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Cherry Leaves}}||cherry_leaves||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Decorated Pot}}||decorated_pot||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Pink Petals}}||pink_petals||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Torchflower}}||torchflower||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Suspicious Sand}}||suspicious_sand||[[Java Edition 23w07a|23w07a]]||-
+|-
+|{{BlockLink|Suspicious Gravel}}||suspicious_gravel||[[Java Edition 23w12a|23w12a]]||-
+|-
+|{{BlockLink|Calibrated Sculk Sensor}}||calibrated_sculk_sensor||[[Java Edition 23w12a|23w12a]]||-
+|-
+|{{BlockLink|Crafter}}||crafter||[[Java Edition 23w42a|23w42a]]||-
+|-
+|{{BlockLink|Chiseled Copper}}||chiseled_copper||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Exposed Chiseled Copper}}||exposed_chiseled_copper||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Weathered Chiseled Copper}}||weathered_chiseled_copper||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Oxidized Chiseled Copper}}||oxidized_chiseled_copper||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Chiseled Copper}}||waxed_chiseled_copper||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Exposed Chiseled Copper}}||waxed_exposed_chiseled_copper||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Weathered Chiseled Copper}}||waxed_weathered_chiseled_copper||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Oxidized Chiseled Copper}}||waxed_oxidized_chiseled_copper||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Copper Bulb}}||copper_bulb||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Exposed Copper Bulb}}||exposed_copper_bulb||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Weathered Copper Bulb}}||weathered_copper_bulb||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Oxidized Copper Bulb}}||oxidized_copper_bulb||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Copper Bulb}}||waxed_copper_bulb||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Exposed Copper Bulb}}||waxed_exposed_copper_bulb||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Weathered Copper Bulb}}||waxed_weathered_copper_bulb||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Oxidized Copper Bulb}}||waxed_oxidized_copper_bulb||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Copper Door}}||copper_door||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Exposed Copper Door}}||exposed_copper_door||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Weathered Copper Door}}||weathered_copper_door||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Oxidized Copper Door}}||oxidized_copper_door||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Copper Door}}||waxed_copper_door||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Exposed Copper Door}}||waxed_exposed_copper_door||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Weathered Copper Door}}||waxed_weathered_copper_door||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Oxidized Copper Door}}||waxed_oxidized_copper_door||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Copper Trapdoor}}||copper_trapdoor||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Exposed Copper Trapdoor}}||exposed_copper_trapdoor||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Weathered Copper Trapdoor}}||weathered_copper_trapdoor||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Oxidized Copper Trapdoor}}||oxidized_copper_trapdoor||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Copper Trapdoor}}||waxed_copper_trapdoor||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Exposed Copper Trapdoor}}||waxed_exposed_copper_trapdoor||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Weathered Copper Trapdoor}}||waxed_weathered_copper_trapdoor||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Oxidized Copper Trapdoor}}||waxed_oxidized_copper_trapdoor||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Copper Grate}}||copper_grate||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Exposed Copper Grate}}||exposed_copper_grate||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Weathered Copper Grate}}||weathered_copper_grate||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Oxidized Copper Grate}}||oxidized_copper_grate||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Copper Grate}}||waxed_copper_grate||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Exposed Copper Grate}}||waxed_exposed_copper_grate||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Weathered Copper Grate}}||waxed_weathered_copper_grate||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Waxed Oxidized Copper Grate}}||waxed_oxidized_copper_grate||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Tuff Stairs}}||tuff_stairs||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Tuff Slab}}||tuff_slab||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Tuff Wall}}||tuff_wall||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Chiseled Tuff}}||chiseled_tuff||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Polished Tuff}}||polished_tuff||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Polished Tuff Stairs}}||polished_tuff_stairs||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Polished Tuff Slab}}||polished_tuff_slab||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Polished Tuff Wall}}||polished_tuff_wall||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Tuff Bricks}}||tuff_bricks||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Tuff Brick Stairs}}||tuff_brick_stairs||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Tuff Brick Slab}}||tuff_brick_slab||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Tuff Brick Wall}}||tuff_brick_wall||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Chiseled Tuff Bricks}}||chiseled_tuff_bricks||[[Java Edition 23w43a|23w43a]]||-
+|-
+|{{BlockLink|Trial Spawner}}||trial_spawner||[[Java Edition 23w45a|23w45a]]||-
+|-
+|{{BlockLink|Vault}}||vault||[[Java Edition 24w05a|24w05a]]||-
+|-
+|{{BlockLink|Heavy Core}}||heavy_core||[[Java Edition 24w11a|24w11a]]||-
