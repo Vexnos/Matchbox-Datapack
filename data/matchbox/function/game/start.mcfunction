@@ -10,9 +10,14 @@ execute as @a[tag=!spark] run scoreboard players add #matches matches 1
 # Gamemode
 gamemode adventure @a
 tag @a remove out
+clear @a
 
 # Start Role Reveal Countdown
 scoreboard players set #countdown countdown 3
 function matchbox:game/countdown/countdown
 effect give @a slowness infinite 128 true
 effect give @a blindness infinite 0 true
+item replace entity @a[gamemode=adventure] armor.head with tinted_glass[attribute_modifiers={modifiers:[{amount:0,id:"speed",operation:add_value,slot:head,type:"generic.movement_speed"}]}]
+
+# Set the Game State
+scoreboard players set #game gameRunning 1
