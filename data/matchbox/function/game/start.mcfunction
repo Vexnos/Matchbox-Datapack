@@ -16,7 +16,4 @@ clear @a
 scoreboard players set #countdown countdown 3
 function matchbox:game/countdown/countdown
 effect give @a blindness infinite 0 true
-item replace entity @a[gamemode=adventure] armor.head with tinted_glass[attribute_modifiers={modifiers:[{amount:0,id:"speed",operation:add_value,slot:head,type:"generic.movement_speed"},{amount:0,id:"jump",operation:add_value,slot:head,type:"generic.jump_strength"}]}]
-
-# Set the Game State
-scoreboard players set #game gameRunning 1
+item replace entity @a[gamemode=adventure] armor.head with leather_helmet[attribute_modifiers={modifiers:[{amount:0,id:"speed",operation:add_value,slot:head,type:"minecraft:generic.movement_speed"},{amount:0,id:"jump",operation:add_value,slot:head,type:"minecraft:generic.jump_strength"}]}]

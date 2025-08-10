@@ -24,6 +24,8 @@ tag @a remove protected
 
 # Reset Scoreboards
 scoreboard players set @a randomroll 0
+scoreboard players set @a deaths 0
+scoreboard players set @a crossbowUsed 0
 scoreboard players set #countdown countdown 0
 scoreboard players reset #sparks sparks
 scoreboard players reset #matches matches

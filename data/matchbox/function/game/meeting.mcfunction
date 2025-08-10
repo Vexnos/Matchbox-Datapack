@@ -1,0 +1,1 @@
+teleport @a @e[tag=lobby,limit=1]

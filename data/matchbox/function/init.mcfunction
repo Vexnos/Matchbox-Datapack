@@ -9,7 +9,11 @@ scoreboard objectives add matches dummy
 scoreboard objectives add countdown dummy
 scoreboard objectives add randomroll dummy
 scoreboard objectives add gameRunning dummy
+scoreboard objectives add deaths deathCount
+scoreboard objectives add crossbowUsed minecraft.used:minecraft.crossbow
 
 # Scoreboard Values
+scoreboard players set @a deaths 0
+scoreboard players set @a crossbowUsed 0
 scoreboard players set #countdown countdown 0
 scoreboard players set @a randomroll 0

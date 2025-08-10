@@ -16,8 +16,5 @@ execute as @a[tag=match] at @s run playsound entity.villager.ambient master @s
 # Clear Temporary Blindness
 effect clear @a blindness
 
-# Give Items
-function matchbox:game/items
-
 # Start the Round
 function matchbox:round/start
