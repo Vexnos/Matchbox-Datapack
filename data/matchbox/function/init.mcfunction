@@ -11,6 +11,7 @@ scoreboard objectives add randomroll dummy
 scoreboard objectives add gameRunning dummy
 scoreboard objectives add marked dummy
 scoreboard objectives add deaths deathCount
+scoreboard objectives add vote dummy
 scoreboard objectives add crossbowUsed minecraft.used:minecraft.crossbow
 
 # Scoreboard Values

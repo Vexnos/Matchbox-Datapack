@@ -47,5 +47,6 @@ schedule clear matchbox:round/start
 schedule clear matchbox:roles/items
 schedule clear matchbox:round/blindness
 schedule clear matchbox:game/countdown/countdown
-schedule clear matchbox:game/meeting
-schedule clear matchbox:game/vote
+schedule clear matchbox:meeting/meeting
+schedule clear matchbox:meeting/voting/vote
+schedule clear matchbox:meeting/voting/eliminate
