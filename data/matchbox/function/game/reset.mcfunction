@@ -50,3 +50,4 @@ schedule clear matchbox:game/countdown/countdown
 schedule clear matchbox:meeting/meeting
 schedule clear matchbox:meeting/voting/vote
 schedule clear matchbox:meeting/voting/eliminate
+schedule clear matchbox:swap/items
