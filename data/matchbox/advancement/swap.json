@@ -1,0 +1,23 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:using_item",
+            "conditions": {
+                "item": {
+                    "items": "minecraft:nether_star",
+                    "components": {
+                        "minecraft:food": {
+                            "nutrition": 0,
+                            "saturation": 0,
+                            "can_always_eat": true,
+                            "eat_seconds": 0.05
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "matchbox:swap/swap"
+    }
+}

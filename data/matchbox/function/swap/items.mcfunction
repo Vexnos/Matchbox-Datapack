@@ -1,0 +1,1 @@
+item replace entity @a[tag=spark] hotbar.5 with nether_star[custom_name='{"text":"Swap","color":"yellow","italic":false}',enchantment_glint_override=true,food={nutrition:0,saturation:0,can_always_eat:true,eat_seconds:0.05}] 1

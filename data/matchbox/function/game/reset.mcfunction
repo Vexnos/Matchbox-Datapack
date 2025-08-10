@@ -29,6 +29,11 @@ scoreboard players set @a crossbowUsed 0
 scoreboard players set #countdown countdown 0
 scoreboard players reset #sparks sparks
 scoreboard players reset #matches matches
+scoreboard players set #marked marked 0
+
+tag @a remove swap2
+kill @e[tag=aswap2]
+kill @e[tag=aswap1]
 
 # Clear Effects
 effect clear @a blindness
@@ -36,3 +41,11 @@ effect clear @a slowness
 
 # Clear Inventories
 clear @a
+
+schedule clear matchbox:round/end
+schedule clear matchbox:round/start
+schedule clear matchbox:roles/items
+schedule clear matchbox:round/blindness
+schedule clear matchbox:game/countdown/countdown
+schedule clear matchbox:game/meeting
+schedule clear matchbox:game/vote
