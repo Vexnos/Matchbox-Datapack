@@ -1,0 +1,2 @@
+python blocklist.py
+zip -r MatchboxDatapack.zip -9 -X -q -@ < manifest
