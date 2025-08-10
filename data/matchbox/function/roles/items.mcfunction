@@ -1,0 +1,3 @@
+# Role Specific Items
+item replace entity @a[tag=spark] hotbar.6 with gold_nugget[custom_name='{"text":"Mark","italic":false,"color":"red"}',enchantment_glint_override=true] 1
+item replace entity @a[tag=splash] hotbar.6 with apple[custom_name='{"text":"Mark","italic":false,"color":"blue"}',enchantment_glint_override=true] 1
