@@ -12,5 +12,5 @@ execute if score #game gameRunning matches 1 as @e[type=item] at @s on origin ru
 xp set @a 0 levels
 xp set @a 0 points
 
-# Death Function
-execute as @a[tag=!out,scores={deaths=1..}] run function matchbox:game/elimination
+# Spectral Arrow
+function matchbox:game/spectralarrow

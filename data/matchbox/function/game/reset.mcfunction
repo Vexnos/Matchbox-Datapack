@@ -18,8 +18,11 @@ tag @a remove splash
 tag @a remove match
 tag @a remove out
 
+# Remove Statuses
+tag @a remove marked
+tag @a remove protected
+
 # Reset Scoreboards
-scoreboard players set @a deaths 0
 scoreboard players set @a randomroll 0
 scoreboard players set #countdown countdown 0
 scoreboard players reset #sparks sparks

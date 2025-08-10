@@ -15,9 +15,8 @@ clear @a
 # Start Role Reveal Countdown
 scoreboard players set #countdown countdown 3
 function matchbox:game/countdown/countdown
-effect give @a slowness infinite 128 true
 effect give @a blindness infinite 0 true
-item replace entity @a[gamemode=adventure] armor.head with tinted_glass[attribute_modifiers={modifiers:[{amount:0,id:"speed",operation:add_value,slot:head,type:"generic.movement_speed"}]}]
+item replace entity @a[gamemode=adventure] armor.head with tinted_glass[attribute_modifiers={modifiers:[{amount:0,id:"speed",operation:add_value,slot:head,type:"generic.movement_speed"},{amount:0,id:"jump",operation:add_value,slot:head,type:"generic.jump_strength"}]}]
 
 # Set the Game State
 scoreboard players set #game gameRunning 1
