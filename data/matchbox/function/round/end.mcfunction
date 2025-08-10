@@ -13,9 +13,5 @@ clear @a
 execute as @a[tag=marked,tag=!protected,tag=!spark] run function matchbox:game/elimination
 execute as @a[tag=marked,tag=protected,tag=!spark] run function matchbox:game/protected
 
-# Check amount of matches vs amount of sparks
-execute if score #sparks sparks >= #matches matches run function matchbox:game/reset
-execute if score #sparks sparks < #matches matches run function matchbox:game/meeting
-
 schedule clear matchbox:round/end
 schedule clear matchbox:roles/items

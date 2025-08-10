@@ -3,3 +3,7 @@ execute as @a[tag=protected,tag=marked] at @s run playsound entity.allay.ambient
 
 tag @s remove protected
 tag @s remove marked
+
+# Check amount of matches vs amount of sparks
+execute if score #sparks sparks >= #matches matches run function matchbox:game/reset
+execute if score #sparks sparks < #matches matches run function matchbox:game/meeting
