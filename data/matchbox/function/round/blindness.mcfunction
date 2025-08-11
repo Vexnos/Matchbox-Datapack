@@ -1,3 +1,2 @@
 effect give @a[tag=!out] blindness infinite 0 true
-effect give @a[tag=!out] slowness infinite 255 true
 item replace entity @a[gamemode=adventure] armor.head with leather_helmet[attribute_modifiers={modifiers:[{amount:-1,id:"speed",operation:add_value,slot:head,type:"minecraft:generic.movement_speed"},{amount:-1,id:"jump",operation:add_value,slot:head,type:"minecraft:generic.jump_strength"}]}]
