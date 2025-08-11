@@ -3,4 +3,9 @@ castvote() -> (
   name = get(get(get(nbt, 'components'), 'minecraft:profile'), 'name');
   scoreboard('vote', name, scoreboard('vote', name) + 1);
   print(format(['e You have voted for: ', 'y ' + name]));
-)
+);
+
+pickwinner() -> (
+  name = get(sort_key(sort_key(scoreboard('vote'), rand(1)), -scoreboard('vote', _)), 0);
+  run(str('execute as %s run function matchbox:meeting/voted', player(name)));
+);
