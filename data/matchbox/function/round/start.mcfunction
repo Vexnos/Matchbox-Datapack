@@ -16,7 +16,7 @@ schedule function matchbox:roles/items 10s
 schedule function matchbox:swap/items 120s
 
 # Titles and Sounds
-execute as @a at @s run playsound entity.player.teleport master @s
+execute as @a at @s run playsound block.end_portal.spawn master @s
 
 # Remove Tags
 tag @a remove protected
