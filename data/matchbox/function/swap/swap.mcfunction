@@ -12,8 +12,8 @@ execute at @a[tag=swap2] run summon armor_stand ~ ~ ~ {Invisible:1b,Invulnerable
 tp @a[tag=spark] @e[tag=aswap2,limit=1]
 tp @a[tag=swap2] @e[tag=aswap1,limit=1]
 
-execute as @a[tag=spark] at @s run playsound entity.player.teleport master @s
-execute as @a[tag=swap2] at @s run playsound entity.player.teleport master @s
+execute as @a[tag=spark] at @s run playsound matchbox:swap master @s
+execute as @a[tag=swap2] at @s run playsound matchbox:swap master @s
 
 # Remove Tags and Kill Armour Stands
 tag @a remove swap2
