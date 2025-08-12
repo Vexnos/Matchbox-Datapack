@@ -7,5 +7,9 @@ castvote() -> (
 
 pickwinner() -> (
   name = get(sort_key(sort_key(scoreboard('vote'), rand(1)), -scoreboard('vote', _)), 0);
-  run(str('execute as %s run function matchbox:meeting/voted', player(name)));
+  if (
+    name == '#Skip',
+    run('function matchbox:meeting/skipped'),
+    run(str('execute as %s run function matchbox:meeting/voted', player(name)))
+  );
 );

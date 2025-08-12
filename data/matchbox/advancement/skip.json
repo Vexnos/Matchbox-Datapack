@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:using_item",
+            "conditions": {
+                "item": {
+                    "items": "minecraft:barrier"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "matchbox:meeting/castskip"
+    }
+}
