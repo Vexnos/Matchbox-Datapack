@@ -62,6 +62,3 @@ schedule function matchbox:round/blindness 595s
 
 # Start Round Timer (10 minutes)
 schedule function matchbox:round/end 600s
-
-# Start the Display Timer
-schedule function matchbox:timer/timer 1s
