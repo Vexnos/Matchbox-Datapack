@@ -8,4 +8,4 @@ scoreboard players set #marked marked 0
 
 # Check amount of matches vs amount of sparks
 execute if score #sparks sparks >= #matches matches run function matchbox:game/reset
-execute if score #sparks sparks < #matches matches run function matchbox:meeting/meeting
+execute if score #sparks sparks < #matches matches run schedule function matchbox:meeting/meeting 3s
