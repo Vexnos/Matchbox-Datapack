@@ -1,7 +1,7 @@
 # Remove teams
 team remove players
 
-# Create Scoreboards
+# Remove Scoreboards
 scoreboard objectives remove sparks
 scoreboard objectives remove matches
 scoreboard objectives remove countdown
