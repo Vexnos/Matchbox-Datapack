@@ -14,6 +14,8 @@ gamemode adventure @a
 tag @a remove out
 clear @a
 
+scoreboard players set #game gameRunning 1
+
 # Start Role Reveal Countdown
 scoreboard players set #countdown countdown 3
 function matchbox:game/countdown/countdown

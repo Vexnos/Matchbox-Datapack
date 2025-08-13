@@ -11,3 +11,5 @@ tp @a[tag=!out,tag=player8] @e[tag=player8m,limit=1]
 effect clear @a[tag=!out] blindness
 clear @a leather_helmet
 schedule function matchbox:meeting/vote 210s
+
+scoreboard players set #inMeeting inMeeting 1

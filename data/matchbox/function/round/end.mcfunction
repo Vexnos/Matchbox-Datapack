@@ -1,5 +1,5 @@
 # Set the Game State
-scoreboard players set #game gameRunning 0
+scoreboard players set #inRound inRound 0
 
 # Remove all Signs
 fill -18 16 -70 147 67 67 air replace oak_sign

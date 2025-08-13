@@ -14,6 +14,6 @@ pickwinner() -> (
         name == null,
         run('function matchbox:meeting/abstained'),
         run(str('execute as %s run function matchbox:meeting/voted', player(name)))
-    )
+    );
   );
 );

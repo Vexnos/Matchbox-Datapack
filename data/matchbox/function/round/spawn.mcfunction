@@ -1,6 +1,12 @@
 # Set the Game State
-scoreboard players set #game gameRunning 1
+scoreboard players set #inRound inRound 1
 scoreboard players set #marked marked 0
+scoreboard players set #inMeeting inMeeting 0
+scoreboard players set #inVoting inVoting 0
+
+scoreboard players set #timer timer 600
+scoreboard players set #meeting timer 210
+scoreboard players set #voting timer 15
 
 # Clear Items
 clear @a
