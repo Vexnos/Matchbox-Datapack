@@ -1,5 +1,5 @@
 effect clear @s resistance
-damage @s 999999 minecraft:on_fire
+damage @s 999999 minecraft:out_of_world
 
 execute as @s[scores={deaths=1..},tag=!out] run gamemode spectator
 execute as @a at @s run playsound entity.lightning_bolt.impact master @s
