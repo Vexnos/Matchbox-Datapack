@@ -1,0 +1,30 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:player_head",
+            "functions": [
+              {
+                "function": "minecraft:fill_player_head",
+                "entity": "this"
+              },
+              {
+              "function": "set_components",
+              "components": {
+                "minecraft:food": {
+                  "nutrition": 0,
+                  "saturation": 0,
+                  "can_always_eat": true,
+                  "eat_seconds": 999999
+                }
+              }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+}   
