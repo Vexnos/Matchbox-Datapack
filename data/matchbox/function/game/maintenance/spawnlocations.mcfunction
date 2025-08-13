@@ -1,5 +1,9 @@
 # Spawn Armour Stands at Desired spawn locations
-summon armor_stand 38 42 -5 {Tags:['spawn_locator','moss_gardens'],Invulnerable:1b,Invisible:1b,Glowing:0b}
-summon armor_stand 129 43 -5 {Tags:['spawn_locator','blackstone_labyrinth'],Invulnerable:1b,Invisible:1b,Glowing:0b}
-summon armor_stand 76 47 42 {Tags:['spawn_locator','kings_keep'],Invulnerable:1b,Invisible:1b,Glowing:0b}
-summon armor_stand 60 45 -42 {Tags:['spawn_locator','nether_fortress'],Invulnerable:1b,Invisible:1b,Glowing:0b}
+summon marker -7 26 299 {Tags:['library','player1s'],data:{name:"Library"}}
+summon marker -15 26 385 {Tags:['scrapyard','player2s'],data:{name:"Scrapyard"}}
+summon marker -104 26 390 {Tags:['lounge','player3s'],data:{name:"Lounge"}}
+summon marker -204 26 352 {Tags:['dining_hall','player4s'],data:{name:"Dining Hall"}}
+summon marker -204 26 299 {Tags:['storage_room','player5s'],data:{name:"Storage Room"}}
+summon marker -104 26 198 {Tags:['volcano','player6s'],data:{name:"Volcano"}}
+summon marker -170 26 327 {Tags:['graveyard','player7s'],data:{name:"Graveyard"}}
+summon marker -139 26 239 {Tags:['viewing_lobby','player8s'],data:{name:"Viewing Lobby"}}
