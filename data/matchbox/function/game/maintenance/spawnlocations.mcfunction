@@ -27,3 +27,6 @@ summon marker -51 69 228 {Tags:['voting_marker','player5v'],data:{name:"voter5"}
 summon marker -47 69 228 {Tags:['voting_marker','player6v'],data:{name:"voter6"}}
 summon marker -43 69 228 {Tags:['voting_marker','player7v'],data:{name:"voter7"}}
 summon marker -39 69 228 {Tags:['voting_marker','player8v'],data:{name:"voter8"}}
+
+# Lobby
+summon marker -69 68 244 {Tags:['lobby'],data:{name:"Lobby"}}

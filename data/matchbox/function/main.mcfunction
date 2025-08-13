@@ -12,5 +12,15 @@ execute if score #game gameRunning matches 1 as @e[type=item] at @s on origin ru
 xp set @a 0 levels
 xp set @a 0 points
 
+# Kill All Items
+kill @e[type=item,nbt={Item:{id:"minecraft:player_head"}}]
+kill @e[type=item,nbt={Item:{id:"minecraft:barrier"}}]
+kill @e[type=spectral_arrow,nbt={inGround:1b}]
+
+# Timers
+execute store result bossbar timer value run scoreboard players get #timer timer
+execute store result bossbar meeting_timer value run scoreboard players get #meeting timer
+execute store result bossbar voting_timer value run scoreboard players get #voting timer
+
 # Spectral Arrow
 function matchbox:game/spectralarrow

@@ -10,6 +10,10 @@ pickwinner() -> (
   if (
     name == '#Skip',
     run('function matchbox:meeting/skipped'),
-    run(str('execute as %s run function matchbox:meeting/voted', player(name)))
+    if (
+        name == null,
+        run('function matchbox:meeting/abstained'),
+        run(str('execute as %s run function matchbox:meeting/voted', player(name)))
+    )
   );
 );
