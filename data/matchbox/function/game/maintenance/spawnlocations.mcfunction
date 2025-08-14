@@ -29,4 +29,4 @@ summon marker -43 69 228 {Tags:['voting_marker','player7v'],data:{name:"voter7"}
 summon marker -39 69 228 {Tags:['voting_marker','player8v'],data:{name:"voter8"}}
 
 # Lobby
-summon marker -69 68 244 {Tags:['lobby'],data:{name:"Lobby"}}
+summon marker -104 71 220 {Tags:['lobby'],data:{name:"Lobby"}}
