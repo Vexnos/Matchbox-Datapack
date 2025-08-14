@@ -5,6 +5,10 @@ scoreboard players set #inRound inRound 0
 fill 34 8 427 -235 111 149 air replace oak_sign
 fill 34 8 427 -235 111 149 air replace oak_wall_sign
 
+# Fill Lava because people keep breaking the map
+fill -86 25 203 -122 25 167 lava[level=0] replace lava
+fill -86 25 203 -122 25 167 lava[level=0] replace air
+
 schedule clear matchbox:round/end
 schedule clear matchbox:roles/items
 schedule clear matchbox:round/blindness
