@@ -14,12 +14,12 @@ execute if score #sparks sparks >= #matches matches run title @a[tag=match] titl
 execute if score #sparks sparks >= #matches matches run title @a[tag=splash] title {"text":"Defeat","color":"red"}
 execute if score #sparks sparks >= #matches matches run title @a actionbar {"text":"The Spark Lit all the Matches","color":"red"}
 execute if score #sparks sparks >= #matches matches run title @a[tag=spark] title {"text":"Victory","color":"red"}
-execute as @a at @s if score #sparks sparks >= #matches matches run playsound entity.ender_dragon.growl master @s
+execute as @a at @s if score #sparks sparks >= #matches matches run playsound matchbox:defeat master @s
 execute if score #sparks sparks < #matches matches run title @a[tag=match] title {"text":"Victory","color":"aqua"}
 execute if score #sparks sparks < #matches matches run title @a[tag=splash] title {"text":"Victory","color":"aqua"}
 execute if score #sparks sparks < #matches matches run title @a actionbar {"text":"The Spark was Extinguished","color":"aqua"}
 execute if score #sparks sparks < #matches matches run title @a[tag=spark] title {"text":"Defeat","color":"aqua"}
-execute as @a at @s if score #sparks sparks < #matches matches run playsound ui.toast.challenge_complete master @s
+execute as @a at @s if score #sparks sparks < #matches matches run playsound matchbox:victory master @s
 
 # Remove all Roles
 tag @a remove spark
