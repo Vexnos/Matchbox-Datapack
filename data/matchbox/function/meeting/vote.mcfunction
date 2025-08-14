@@ -1,6 +1,8 @@
 function matchbox:round/blindness
 schedule clear matchbox:meeting/vote
 
+execute as @a at @s run playsound matchbox:votingtime master @s
+
 # TP players to Voting Booths
 tp @a[tag=!out,tag=player1] @e[tag=player1v,limit=1]
 tp @a[tag=!out,tag=player2] @e[tag=player2v,limit=1]

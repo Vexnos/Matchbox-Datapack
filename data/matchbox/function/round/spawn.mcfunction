@@ -8,6 +8,9 @@ scoreboard players set #timer timer 600
 scoreboard players set #meeting timer 210
 scoreboard players set #voting timer 15
 
+# Increase Round Number
+scoreboard players add #round round 1
+
 # Clear Items
 clear @a
 
@@ -38,7 +41,9 @@ schedule function matchbox:roles/items 10s
 schedule function matchbox:swap/items 120s
 
 # Titles and Sounds
-execute as @a at @s run playsound block.end_portal.spawn master @s
+execute if score #round round matches ..1 as @a at @s run playsound block.end_portal.spawn master @s
+execute unless score #round round matches ..1 as @a at @s run playsound matchbox:atlarge master @s
+execute unless score #round round matches ..1 run title @a title {"text":"The Spark is still at Large","color":"red"}
 
 # Remove Tags
 tag @a remove protected

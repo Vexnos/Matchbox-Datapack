@@ -51,6 +51,7 @@ tag @a remove marked
 tag @a remove protected
 
 # Reset Scoreboards
+scoreboard players set #round round 0
 scoreboard players set @a deaths 0
 scoreboard players set @a crossbowUsed 0
 scoreboard players set #countdown countdown 0

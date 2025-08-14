@@ -14,6 +14,7 @@ scoreboard objectives remove timer
 scoreboard objectives remove inMeeting
 scoreboard objectives remove inVoting
 scoreboard objectives remove crossbowUsed
+scoreboard objectives remove round
 
 # Remove Bossbars
 bossbar remove timer

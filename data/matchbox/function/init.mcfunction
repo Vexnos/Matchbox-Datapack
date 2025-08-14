@@ -15,6 +15,7 @@ scoreboard objectives add vote dummy
 scoreboard objectives add timer dummy
 scoreboard objectives add inMeeting dummy
 scoreboard objectives add inVoting dummy
+scoreboard objectives add round dummy
 scoreboard objectives add crossbowUsed minecraft.used:minecraft.crossbow
 
 # Scoreboard Values

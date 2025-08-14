@@ -16,6 +16,8 @@ clear @a
 
 scoreboard players set #game gameRunning 1
 
+execute as @a at @s run playsound matchbox:jingle3 master @s
+
 # Start Role Reveal Countdown
 scoreboard players set #countdown countdown 3
 function matchbox:game/countdown/countdown

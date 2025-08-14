@@ -9,7 +9,9 @@ tp @a[tag=player7] @e[tag=player7m,limit=1]
 tp @a[tag=player8] @e[tag=player8m,limit=1]
 
 effect clear @a[tag=!out] blindness
+effect clear @a invisibility
 clear @a leather_helmet
+stopsound @a * matchbox:roundend
 schedule function matchbox:meeting/vote 210s
 
 scoreboard players set #inMeeting inMeeting 1
