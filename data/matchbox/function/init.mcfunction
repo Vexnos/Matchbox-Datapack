@@ -43,6 +43,7 @@ bossbar set minecraft:meeting_timer style progress
 bossbar set minecraft:voting_timer style progress
 
 execute at @e[tag=lobby,limit=1] run spawnpoint @a ~ ~ ~
+execute at @e[tag=lobby,limit=1] run setworldspawn ~ ~ ~
 
 function matchbox:game/timer
 function matchbox:game/newplayers
