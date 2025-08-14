@@ -49,6 +49,10 @@ execute unless score #round round matches ..1 run title @a title {"text":"The Sp
 tag @a remove protected
 tag @a remove marked
 
+# Remove all Signs
+fill 34 8 427 -235 111 149 air replace oak_sign
+fill 34 8 427 -235 111 149 air replace oak_wall_sign
+
 # Remove effects
 effect clear @a blindness
 

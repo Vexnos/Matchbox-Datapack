@@ -22,4 +22,4 @@ execute as @a at @s run playsound matchbox:jingle3 master @s
 scoreboard players set #countdown countdown 3
 function matchbox:game/countdown/countdown
 effect give @a blindness infinite 0 true
-item replace entity @a[gamemode=adventure] armor.head with leather_helmet[attribute_modifiers={modifiers:[{amount:-1,id:"speed",operation:add_value,slot:head,type:"minecraft:generic.movement_speed"},{amount:-1,id:"jump",operation:add_value,slot:head,type:"minecraft:generic.jump_strength"}]}]
+item replace entity @a[gamemode=adventure] armor.head with leather_helmet[enchantments={levels:{binding_curse:1}},attribute_modifiers={modifiers:[{amount:-1,id:"speed",operation:add_value,slot:head,type:"minecraft:generic.movement_speed"},{amount:-1,id:"jump",operation:add_value,slot:head,type:"minecraft:generic.jump_strength"}]}]

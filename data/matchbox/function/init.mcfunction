@@ -25,6 +25,9 @@ scoreboard players set #inMeeting inMeeting 0
 scoreboard players set #inVoting inVoting 0
 scoreboard players set #countdown countdown 0
 
+# Gamerules
+gamerule commandModificationBlockLimit 8000000
+
 # Bossbars
 bossbar add timer ""
 bossbar add meeting_timer ""
