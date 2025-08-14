@@ -2,8 +2,8 @@
 scoreboard players set #inRound inRound 0
 
 # Remove all Signs
-fill -18 16 -70 147 67 67 air replace oak_sign
-fill -18 16 -70 147 67 67 air replace oak_wall_sign
+fill 34 8 427 -235 111 149 air replace oak_sign
+fill 34 8 427 -235 111 149 air replace oak_wall_sign
 
 schedule clear matchbox:round/end
 schedule clear matchbox:roles/items
