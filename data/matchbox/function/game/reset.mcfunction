@@ -50,6 +50,9 @@ tag @e remove spawn8
 tag @a remove marked
 tag @a remove protected
 
+# Reset Trigger
+scoreboard players reset @s reset
+
 # Reset Scoreboards
 scoreboard players set #round round 0
 scoreboard players set @a deaths 0
@@ -58,7 +61,7 @@ scoreboard players set #countdown countdown 0
 scoreboard players reset #sparks sparks
 scoreboard players reset #matches matches
 scoreboard players set #marked marked 0
-scoreboard players set #timer timer 600
+scoreboard players set #timer timer 450
 scoreboard players set #meeting timer 210
 scoreboard players set #voting timer 15
 

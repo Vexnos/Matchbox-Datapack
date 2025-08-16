@@ -9,6 +9,9 @@ execute as @a[tag=!spark] run scoreboard players add #matches matches 1
 scoreboard players set @a deaths 0
 scoreboard players set #marked marked 0
 
+# Reset Trigger
+scoreboard players reset @s start
+
 # Gamemode
 gamemode adventure @a
 tag @a remove out

@@ -16,6 +16,8 @@ scoreboard objectives add timer dummy
 scoreboard objectives add inMeeting dummy
 scoreboard objectives add inVoting dummy
 scoreboard objectives add round dummy
+scoreboard objectives add start trigger
+scoreboard objectives add reset trigger
 scoreboard objectives add crossbowUsed minecraft.used:minecraft.crossbow
 
 # Scoreboard Values
@@ -37,11 +39,11 @@ bossbar set minecraft:timer color yellow
 bossbar set minecraft:meeting_timer color yellow
 bossbar set minecraft:voting_timer color red
 
-bossbar set minecraft:timer max 600
+bossbar set minecraft:timer max 450
 bossbar set minecraft:meeting_timer max 210
 bossbar set minecraft:voting_timer max 15
 
-bossbar set minecraft:timer style notched_10
+bossbar set minecraft:timer style progress
 bossbar set minecraft:meeting_timer style progress
 bossbar set minecraft:voting_timer style progress
 
