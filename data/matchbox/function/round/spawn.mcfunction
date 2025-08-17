@@ -4,7 +4,7 @@ scoreboard players set #marked marked 0
 scoreboard players set #inMeeting inMeeting 0
 scoreboard players set #inVoting inVoting 0
 
-scoreboard players set #timer timer 450
+scoreboard players set #timer timer 360
 scoreboard players set #meeting timer 210
 scoreboard players set #voting timer 15
 
@@ -71,7 +71,7 @@ item replace entity @a[tag=!out,gamemode=adventure] armor.feet with leather_boot
 function matchbox:game/randspawn
 
 # Blindness in 9 Minutes, 55 Seconds
-schedule function matchbox:round/blindness 445s
+schedule function matchbox:round/blindness 355s
 
 # Start Round Timer (10 minutes)
-schedule function matchbox:round/end 450s
+schedule function matchbox:round/end 360s

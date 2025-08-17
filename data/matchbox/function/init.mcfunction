@@ -39,7 +39,7 @@ bossbar set minecraft:timer color yellow
 bossbar set minecraft:meeting_timer color yellow
 bossbar set minecraft:voting_timer color red
 
-bossbar set minecraft:timer max 450
+bossbar set minecraft:timer max 360
 bossbar set minecraft:meeting_timer max 210
 bossbar set minecraft:voting_timer max 15
 

@@ -61,7 +61,7 @@ scoreboard players set #countdown countdown 0
 scoreboard players reset #sparks sparks
 scoreboard players reset #matches matches
 scoreboard players set #marked marked 0
-scoreboard players set #timer timer 450
+scoreboard players set #timer timer 360
 scoreboard players set #meeting timer 210
 scoreboard players set #voting timer 15
 
