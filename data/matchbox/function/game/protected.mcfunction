@@ -1,6 +1,6 @@
 tellraw @s {"text":"You were marked, but you were protected","color":"blue"}
 title @a title {"text":"No one was ignited","color":"dark_green"}
-execute as @a[tag=protected,tag=marked] at @s run playsound matchbox:jingle master @s
+execute as @a at @s run playsound matchbox:jingle master @s
 
 tag @s remove protected
 tag @s remove marked
