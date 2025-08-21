@@ -20,6 +20,7 @@ execute if score #sparks sparks < #matches matches run title @a[tag=splash] titl
 execute if score #sparks sparks < #matches matches run title @a actionbar {"text":"The Spark was Extinguished","color":"aqua"}
 execute if score #sparks sparks < #matches matches run title @a[tag=spark] title {"text":"Defeat","color":"aqua"}
 execute as @a at @s if score #sparks sparks < #matches matches run playsound matchbox:victory master @s
+title @a subtitle ""
 
 # Remove all Roles
 tag @a remove spark

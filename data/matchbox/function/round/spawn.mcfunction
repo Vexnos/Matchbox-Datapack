@@ -44,6 +44,7 @@ schedule function matchbox:swap/items 120s
 execute if score #round round matches ..1 as @a at @s run playsound block.end_portal.spawn master @s
 execute unless score #round round matches ..1 as @a at @s run playsound matchbox:atlarge master @s
 execute unless score #round round matches ..1 run title @a title {"text":"The Spark is still at Large","color":"red"}
+title @a subtitle ""
 
 # Remove Tags
 tag @a remove protected
