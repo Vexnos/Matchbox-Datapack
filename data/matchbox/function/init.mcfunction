@@ -10,7 +10,6 @@ scoreboard objectives add countdown dummy
 scoreboard objectives add inRound dummy
 scoreboard objectives add gameRunning dummy
 scoreboard objectives add marked dummy
-scoreboard objectives add deaths deathCount
 scoreboard objectives add vote dummy
 scoreboard objectives add timer dummy
 scoreboard objectives add inMeeting dummy
@@ -21,7 +20,6 @@ scoreboard objectives add reset trigger
 scoreboard objectives add crossbowUsed minecraft.used:minecraft.crossbow
 
 # Scoreboard Values
-scoreboard players set @a deaths 0
 scoreboard players set @a crossbowUsed 0
 scoreboard players set #inMeeting inMeeting 0
 scoreboard players set #inVoting inVoting 0
@@ -43,7 +41,7 @@ bossbar set minecraft:timer max 360
 bossbar set minecraft:meeting_timer max 210
 bossbar set minecraft:voting_timer max 15
 
-bossbar set minecraft:timer style progress
+bossbar set minecraft:timer style notched_6
 bossbar set minecraft:meeting_timer style progress
 bossbar set minecraft:voting_timer style progress
 

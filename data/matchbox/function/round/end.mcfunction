@@ -15,6 +15,6 @@ schedule clear matchbox:round/blindness
 schedule clear matchbox:swap/items
 
 # Elimination
-execute unless entity @a[tag=!out,tag=protected,tag=marked] if score #marked marked matches 0 run function matchbox:game/nokill
+execute unless entity @a[tag=!out,tag=marked] if score #marked marked matches 0 run function matchbox:game/nokill
 execute as @a[tag=marked,tag=!protected,tag=!spark] run function matchbox:game/elimination
 execute as @a[tag=marked,tag=protected,tag=!spark] run function matchbox:game/protected

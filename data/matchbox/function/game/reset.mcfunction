@@ -55,7 +55,6 @@ scoreboard players reset @s reset
 
 # Reset Scoreboards
 scoreboard players set #round round 0
-scoreboard players set @a deaths 0
 scoreboard players set @a crossbowUsed 0
 scoreboard players set #countdown countdown 0
 scoreboard players reset #sparks sparks

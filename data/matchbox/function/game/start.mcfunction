@@ -6,7 +6,6 @@ tag @a[tag=!spark,tag=!splash] add match
 # Add players to scoreboards
 execute as @a[tag=spark] run scoreboard players add #sparks sparks 1
 execute as @a[tag=!spark] run scoreboard players add #matches matches 1
-scoreboard players set @a deaths 0
 scoreboard players set #marked marked 0
 
 # Reset Trigger

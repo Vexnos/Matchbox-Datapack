@@ -8,7 +8,6 @@ scoreboard objectives remove countdown
 scoreboard objectives remove inRound
 scoreboard objectives remove gameRunning
 scoreboard objectives remove marked
-scoreboard objectives remove deaths
 scoreboard objectives remove vote
 scoreboard objectives remove timer
 scoreboard objectives remove inMeeting
