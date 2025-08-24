@@ -22,10 +22,10 @@ execute store result bossbar timer value run scoreboard players get #timer timer
 execute store result bossbar meeting_timer value run scoreboard players get #meeting timer
 execute store result bossbar voting_timer value run scoreboard players get #voting timer
 
-scoreboard players enable @a start
+scoreboard players enable @a[tag=admin] start
 execute as @a if score @s start matches 1.. run function matchbox:game/start
 
-scoreboard players enable @a reset
+scoreboard players enable @a[tag=admin] reset
 execute as @a if score @s reset matches 1.. run function matchbox:game/reset
 
 # Spectral Arrow
