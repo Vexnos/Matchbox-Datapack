@@ -66,8 +66,8 @@ scoreboard players set #meeting timer 210
 scoreboard players set #voting timer 15
 
 tag @a remove swap2
-kill @e[tag=aswap2]
-kill @e[tag=aswap1]
+kill @e[tag=mswap2]
+kill @e[tag=mswap1]
 
 # Clear Effects
 effect clear @a blindness
