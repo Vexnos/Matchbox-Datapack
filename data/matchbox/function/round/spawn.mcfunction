@@ -63,10 +63,10 @@ effect clear @a blindness
 
 # Invis and Armour
 effect give @a invisibility infinite 0 true
-item replace entity @a[tag=!out,gamemode=adventure] armor.head with leather_helmet[unbreakable={},enchantments={levels:{binding_curse:1}}]
-item replace entity @a[tag=!out,gamemode=adventure] armor.chest with leather_chestplate[unbreakable={},enchantments={levels:{binding_curse:1}}]
-item replace entity @a[tag=!out,gamemode=adventure] armor.legs with leather_leggings[unbreakable={},enchantments={levels:{binding_curse:1}}]
-item replace entity @a[tag=!out,gamemode=adventure] armor.feet with leather_boots[unbreakable={},enchantments={levels:{binding_curse:1}}]
+item replace entity @a[tag=!out,gamemode=adventure] armor.head with leather_helmet[unbreakable={},enchantments={binding_curse:1}]
+item replace entity @a[tag=!out,gamemode=adventure] armor.chest with leather_chestplate[unbreakable={},enchantments={binding_curse:1}]
+item replace entity @a[tag=!out,gamemode=adventure] armor.legs with leather_leggings[unbreakable={},enchantments={binding_curse:1}]
+item replace entity @a[tag=!out,gamemode=adventure] armor.feet with leather_boots[unbreakable={},enchantments={binding_curse:1}]
 
 # Teleport Players to Random Locations
 function matchbox:game/randspawn

@@ -6,7 +6,7 @@ The rules can be found *[here](https://www.youtube.com/watch?v=dmwAJjVQRNc)* on 
 
 **DISCLAIMER**: I do not own the ideas for this game, only the code inside the datapack was created from scratch with some exceptions (listed below).
 
-## Installation Instructions (1.21.1)
+## Installation Instructions (1.21.8)
 1. Download the Datapack and place inside the `datapacks` folder in your world.
 2. Install [Fabric](https://fabricmc.net/) and [Carpet Mod](https://github.com/gnembon/fabric-carpet) for minecraft and load the world before step 3.
 3. Take the `vote.sc` scarpet script and place inside the `scripts` folder in your world.

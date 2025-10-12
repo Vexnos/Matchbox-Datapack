@@ -17,5 +17,5 @@ scoreboard players set #inMeeting inMeeting 0
 scoreboard players set #inVoting inVoting 1
 scoreboard players reset * vote
 execute as @a[tag=!out] run function gui.maker:username
-give @a[tag=!out] barrier[item_name='"Skip Vote"',food={nutrition:0,saturation:0,can_always_eat:true,eat_seconds:999999}] 1
+give @a[tag=!out] barrier[item_name='"Skip Vote"',consumable={consume_seconds:0.05,animation:eat,has_consume_particles:false}] 1
 schedule function matchbox:meeting/election 15s

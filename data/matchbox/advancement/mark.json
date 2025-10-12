@@ -6,11 +6,10 @@
                 "item": {
                     "items": "minecraft:gold_nugget",
                     "components": {
-                        "minecraft:food": {
-                            "nutrition": 0,
-                            "saturation": 0,
-                            "can_always_eat": true,
-                            "eat_seconds": 999999
+                        "minecraft:consumable": {
+                            "consume_seconds": 999999,
+                            "animation": "eat",
+                            "has_consume_particles": false
                         }
                     }
                 }

@@ -1,2 +1,1 @@
-item replace entity @a[tag=spark] hotbar.5 with nether_star[enchantment_glint_override=false,custom_model_data=1,custom_name='{"text":"Swap","color":"yellow","italic":false}',food={nutrition:0,saturation:0,can_always_eat:true,eat_seconds:0.05}] 1
-execute as @a[tag=spark] at @s run playsound matchbox:items master @s
+item replace entity @a[tag=spark] hotbar.5 with nether_star[enchantment_glint_override=false,custom_model_data={strings:["swap_marker"]},custom_name={text:"Swap",color:"yellow",italic:false},consumable={consume_seconds:0.05,animation:eat,has_consume_particles:false}]
