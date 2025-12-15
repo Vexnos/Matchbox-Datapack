@@ -94,4 +94,3 @@ schedule clear matchbox:game/countdown/countdown
 schedule clear matchbox:meeting/meeting
 schedule clear matchbox:meeting/vote
 schedule clear matchbox:swap/items
-schedule clear matchbox:game/timer
