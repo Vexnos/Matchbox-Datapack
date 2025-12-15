@@ -84,6 +84,8 @@ fill 34 8 427 -235 111 149 air replace oak_wall_sign
 fill -86 25 203 -122 25 167 lava[level=0] replace lava
 fill -86 25 203 -122 25 167 lava[level=0] replace air
 
+time set 6000
+
 schedule clear matchbox:round/end
 schedule clear matchbox:round/start
 schedule clear matchbox:roles/items

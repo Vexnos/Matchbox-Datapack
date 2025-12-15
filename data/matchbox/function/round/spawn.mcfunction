@@ -68,6 +68,8 @@ item replace entity @a[tag=!out,gamemode=adventure] armor.chest with leather_che
 item replace entity @a[tag=!out,gamemode=adventure] armor.legs with leather_leggings[unbreakable={},enchantments={binding_curse:1}]
 item replace entity @a[tag=!out,gamemode=adventure] armor.feet with leather_boots[unbreakable={},enchantments={binding_curse:1}]
 
+time set 18000
+
 # Teleport Players to Random Locations
 function matchbox:game/randspawn
 
