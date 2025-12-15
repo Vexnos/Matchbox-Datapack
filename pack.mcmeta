@@ -1,6 +1,8 @@
 {
     "pack": {
-        "pack_format": 81,
+        "pack_format": 88.0,
+        "min_format": [88, 0],
+        "max_format": [88, 0],
         "description": "Matchbox Datapack"
     }
 }
