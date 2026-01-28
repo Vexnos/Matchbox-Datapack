@@ -14,7 +14,7 @@ execute if score #sparks sparks >= #matches matches run title @a[tag=match] titl
 execute if score #sparks sparks >= #matches matches run title @a[tag=splash] title {"text":"Defeat","color":"red"}
 execute if score #sparks sparks >= #matches matches run title @a actionbar {"text":"The Spark Lit all the Matches","color":"red"}
 execute if score #sparks sparks >= #matches matches run title @a[tag=spark] title {"text":"Victory","color":"red"}
-execute as @a at @s if score #sparks sparks >= #matches matches run playsound matchbox:defeat master @s
+execute as @a at @s if score #sparks sparks >= #matches matches run playsound matchbox:defeat2 master @s
 execute if score #sparks sparks < #matches matches run title @a[tag=match] title {"text":"Victory","color":"aqua"}
 execute if score #sparks sparks < #matches matches run title @a[tag=splash] title {"text":"Victory","color":"aqua"}
 execute if score #sparks sparks < #matches matches run title @a actionbar {"text":"The Spark was Extinguished","color":"aqua"}
@@ -64,6 +64,7 @@ scoreboard players set #marked marked 0
 scoreboard players set #timer timer 360
 scoreboard players set #meeting timer 210
 scoreboard players set #voting timer 15
+scoreboard players set #repeats soundRepeats 0
 
 tag @a remove swap2
 kill @e[tag=mswap2]
@@ -94,3 +95,4 @@ schedule clear matchbox:game/countdown/countdown
 schedule clear matchbox:meeting/meeting
 schedule clear matchbox:meeting/vote
 schedule clear matchbox:swap/items
+schedule clear matchbox:game/sound_repeats

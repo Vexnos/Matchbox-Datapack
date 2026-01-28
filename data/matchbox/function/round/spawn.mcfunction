@@ -42,7 +42,9 @@ schedule function matchbox:swap/items 120s
 
 # Titles and Sounds
 execute if score #round round matches ..1 as @a at @s run playsound block.end_portal.spawn master @s
-execute unless score #round round matches ..1 as @a at @s run playsound matchbox:atlarge master @s
+execute unless score #round round matches ..1 unless score #matches matches matches 2 as @a at @s run playsound matchbox:atlarge master @s
+execute unless score #round round matches ..1 if score #matches matches matches ..2 run scoreboard players set #repeats soundRepeats 3
+execute unless score #round round matches ..1 if score #matches matches matches ..2 run function matchbox:game/sound_repeats
 execute unless score #round round matches ..1 run title @a title {"text":"The Spark is still at Large","color":"red"}
 title @a subtitle ""
 
